@@ -21,6 +21,13 @@ QUERIES = [
     'Maharashtra food safety cloud kitchen action when:7d',
     'महाराष्ट्र अन्न औषध प्रशासन हॉटेल परवाना निलंबित when:7d',
     'महाराष्ट्र अन्न औषध प्रशासन अन्न भेसळ तपासणी when:7d',
+    'Pune FDA food licence suspended restaurant when:7d',
+    'Nagpur FDA food safety licence restaurant when:7d',
+    'Nashik FDA food business inspection when:7d',
+    'Thane Raigad Navi Mumbai FDA food licence when:7d',
+    'Kolhapur Sangli Satara FDA food hygiene when:7d',
+    'Chhatrapati Sambhajinagar FDA food bakery licence when:7d',
+    'Maharashtra FDA food licence reinstated reopened when:30d',
 ]
 
 def fetch_rss(query: str) -> list[dict]:
@@ -63,7 +70,7 @@ def main():
                     added += 1
         except Exception as exc:
             failures.append(f'{q}: {exc}')
-    existing['candidates'] = sorted(by_id.values(), key=lambda x: x.get('discovered', ''), reverse=True)[:500]
+    existing['candidates'] = sorted(by_id.values(), key=lambda x: x.get('discovered', ''), reverse=True)
     existing['last_checked'] = dt.datetime.now(dt.timezone.utc).isoformat()
     existing['warnings'] = failures
     DEST.write_text(json.dumps(existing, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')

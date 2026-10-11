@@ -2,25 +2,840 @@
   "last_reviewed": "11 October 2026",
   "establishments": [
     {
-      "id":"bmc-hq-canteen", "name":"BMC Headquarters Annexe Canteen", "aliases":["Kamal Caterers","BMC Canteen"], "address":"BMC Headquarters Annexe, Fort", "city":"Mumbai", "district":"Mumbai City", "category":"Canteen", "status":"positive",
-      "note":"A historical closure and a subsequent reopening are both reported. The positive label concerns the documented reinspection, not a permanent certification.",
-      "events":[
-        {"date":"20 August 2026","title":"Licence suspension revoked; canteen reopened","description":"Hindustan Times reported that Maharashtra FDA revoked the suspension after substantial rectification of identified deficiencies. Indian Express later reported a 94% compliance result on reinspection.","source":"https://www.hindustantimes.com/cities/mumbai-news/fda-restores-bmc-headquarters-canteen-licence-after-19-of-the-22-lapses-rectified-101787163076945.html"},
-        {"date":"23 July 2026","title":"Closed following FDA action","description":"The canteen was closed following reported hygiene and food-safety non-compliances.","source":"https://indianexpress.com/article/cities/mumbai/fda-bmc-hq-canteen-reopens-food-licence-10913854/"}
+      "id": "bmc-hq-canteen",
+      "name": "BMC Headquarters Annexe Canteen",
+      "aliases": [
+        "Kamal Caterers",
+        "BMC Canteen"
+      ],
+      "address": "BMC Headquarters Annexe, Fort",
+      "city": "Mumbai",
+      "district": "Mumbai City",
+      "category": "Canteen",
+      "status": "positive",
+      "note": "A historical closure and a subsequent reopening are both reported. The positive label concerns the documented reinspection, not a permanent certification.",
+      "events": [
+        {
+          "date": "20 August 2026",
+          "title": "Licence suspension revoked; canteen reopened",
+          "description": "Hindustan Times reported that Maharashtra FDA revoked the suspension after substantial rectification of identified deficiencies. Indian Express later reported a 94% compliance result on reinspection.",
+          "source": "https://www.hindustantimes.com/cities/mumbai-news/fda-restores-bmc-headquarters-canteen-licence-after-19-of-the-22-lapses-rectified-101787163076945.html"
+        },
+        {
+          "date": "23 July 2026",
+          "title": "Closed following FDA action",
+          "description": "The canteen was closed following reported hygiene and food-safety non-compliances.",
+          "source": "https://indianexpress.com/article/cities/mumbai/fda-bmc-hq-canteen-reopens-food-licence-10913854/"
+        }
       ]
     },
     {
-      "id":"mmrda-hq-canteen", "name":"MMRDA Headquarters Canteen", "aliases":["MMRDA canteen"], "address":"MMRDA headquarters, Bandra Kurla Complex", "city":"Mumbai", "district":"Mumbai Suburban", "category":"Canteen", "status":"historical",
-      "note":"Reports indicate operations were permitted to resume after the operator obtained the required licence. A reopening does not independently establish a satisfactory hygiene inspection.",
-      "events":[
-        {"date":"7 August 2026","title":"Permitted to reopen after obtaining food licence","description":"Indian Express reported FDA permission for resumption of operations after the operator obtained the necessary FSSAI licence.","source":"https://indianexpress.com/article/cities/mumbai/mmrda-canteen-in-mumbai-allowed-to-reopen-after-operator-gets-food-safety-licence-10822436/"},
-        {"date":"3 August 2026","title":"Ordered to stop operations","description":"An FDA inspection reportedly found the contractor operating without the mandatory FSSAI licence.","source":"https://indianexpress.com/article/cities/mumbai/mmrda-canteen-in-mumbai-allowed-to-reopen-after-operator-gets-food-safety-licence-10822436/"}
+      "id": "mmrda-hq-canteen",
+      "name": "MMRDA Headquarters Canteen",
+      "aliases": [
+        "MMRDA canteen"
+      ],
+      "address": "MMRDA headquarters, Bandra Kurla Complex",
+      "city": "Mumbai",
+      "district": "Mumbai Suburban",
+      "category": "Canteen",
+      "status": "historical",
+      "note": "Reports indicate operations were permitted to resume after the operator obtained the required licence. A reopening does not independently establish a satisfactory hygiene inspection.",
+      "events": [
+        {
+          "date": "7 August 2026",
+          "title": "Permitted to reopen after obtaining food licence",
+          "description": "Indian Express reported FDA permission for resumption of operations after the operator obtained the necessary FSSAI licence.",
+          "source": "https://indianexpress.com/article/cities/mumbai/mmrda-canteen-in-mumbai-allowed-to-reopen-after-operator-gets-food-safety-licence-10822436/"
+        },
+        {
+          "date": "3 August 2026",
+          "title": "Ordered to stop operations",
+          "description": "An FDA inspection reportedly found the contractor operating without the mandatory FSSAI licence.",
+          "source": "https://indianexpress.com/article/cities/mumbai/mmrda-canteen-in-mumbai-allowed-to-reopen-after-operator-gets-food-safety-licence-10822436/"
+        }
       ]
     },
     {
-      "id":"suraj-lama-momos", "name":"Suraj Lama Momos", "aliases":["Suraj Lama momo shop"], "address":"Andheri West", "city":"Mumbai", "district":"Mumbai Suburban", "category":"Restaurant", "status":"historical",
-      "note":"A licence suspension was reported in October 2026. The current legal status has not been independently verified. Historical action is shown rather than claiming a current suspension.",
-      "events":[{"date":"October 2026","title":"Licence suspension reported","description":"Indian Express reported that the establishment was among eateries whose food licences were suspended by Maharashtra FDA. Subsequent restoration status has not been verified.","source":"https://indianexpress.com/article/entertainment/bollywood/tukaram-mundhe-shuts-down-suraj-lama-sonakshi-sinha-shahid-kapoor-driver-momo-shop-10908712/"}]
+      "id": "suraj-lama-momos",
+      "name": "Suraj Lama Momos",
+      "aliases": [
+        "Suraj Lama momo shop"
+      ],
+      "address": "Andheri West",
+      "city": "Mumbai",
+      "district": "Mumbai Suburban",
+      "category": "Restaurant",
+      "status": "historical",
+      "note": "A licence suspension was reported in October 2026. The current legal status has not been independently verified. Historical action is shown rather than claiming a current suspension.",
+      "events": [
+        {
+          "date": "October 2026",
+          "title": "Licence suspension reported",
+          "description": "Indian Express reported that the establishment was among eateries whose food licences were suspended by Maharashtra FDA. Subsequent restoration status has not been verified.",
+          "source": "https://indianexpress.com/article/entertainment/bollywood/tukaram-mundhe-shuts-down-suraj-lama-sonakshi-sinha-shahid-kapoor-driver-momo-shop-10908712/"
+        }
+      ]
+    },
+    {
+      "id": "central-canteen-jj-hospital-jj-hospital-byculla",
+      "name": "Central Canteen, JJ Hospital",
+      "aliases": [],
+      "address": "JJ Hospital, Byculla",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Canteen",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "9 October 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.freepressjournal.in/mumbai/mumbai-fda-crackdown-jj-hospital-canteen-islam-gymkhana-caterer-among-10-food-outlets-facing-action"
+        }
+      ]
+    },
+    {
+      "id": "huma-caterer-islam-gymkhana-marine-lines",
+      "name": "Huma Caterer",
+      "aliases": [],
+      "address": "Islam Gymkhana, Marine Lines",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Caterer",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "9 October 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.freepressjournal.in/mumbai/mumbai-fda-crackdown-jj-hospital-canteen-islam-gymkhana-caterer-among-10-food-outlets-facing-action"
+        }
+      ]
+    },
+    {
+      "id": "milcoz-dairy-products-kandivali",
+      "name": "Milcoz Dairy Products",
+      "aliases": [],
+      "address": "Kandivali",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Dairy",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "9 October 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.freepressjournal.in/mumbai/mumbai-fda-crackdown-jj-hospital-canteen-islam-gymkhana-caterer-among-10-food-outlets-facing-action"
+        }
+      ]
+    },
+    {
+      "id": "la-pino-z-pizza-santacruz-west",
+      "name": "La Pino’z Pizza",
+      "aliases": [],
+      "address": "Santacruz West",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Restaurant",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "9 October 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.freepressjournal.in/mumbai/mumbai-fda-crackdown-jj-hospital-canteen-islam-gymkhana-caterer-among-10-food-outlets-facing-action"
+        }
+      ]
+    },
+    {
+      "id": "f3-corporate-hospitality-services-d-j-sanghvi-college-vile-parle",
+      "name": "F3 Corporate Hospitality Services",
+      "aliases": [],
+      "address": "D.J. Sanghvi College, Vile Parle",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Caterer",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "9 October 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.freepressjournal.in/mumbai/mumbai-fda-crackdown-jj-hospital-canteen-islam-gymkhana-caterer-among-10-food-outlets-facing-action"
+        }
+      ]
+    },
+    {
+      "id": "narayan-dosa-opera-house-girgaon",
+      "name": "Narayan Dosa",
+      "aliases": [],
+      "address": "Opera House, Girgaon",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Restaurant",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "9 October 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.freepressjournal.in/mumbai/mumbai-fda-crackdown-jj-hospital-canteen-islam-gymkhana-caterer-among-10-food-outlets-facing-action"
+        }
+      ]
+    },
+    {
+      "id": "abrar-kirana-store-near-jj-hospital-byculla",
+      "name": "Abrar Kirana Store",
+      "aliases": [],
+      "address": "Near JJ Hospital, Byculla",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Grocery",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "9 October 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.freepressjournal.in/mumbai/mumbai-fda-crackdown-jj-hospital-canteen-islam-gymkhana-caterer-among-10-food-outlets-facing-action"
+        }
+      ]
+    },
+    {
+      "id": "golden-star-restaurant-girgaon",
+      "name": "Golden Star Restaurant",
+      "aliases": [],
+      "address": "Girgaon",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Restaurant",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "9 October 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.freepressjournal.in/mumbai/mumbai-fda-crackdown-jj-hospital-canteen-islam-gymkhana-caterer-among-10-food-outlets-facing-action"
+        }
+      ]
+    },
+    {
+      "id": "paliwal-dairy-charkop",
+      "name": "Paliwal Dairy",
+      "aliases": [],
+      "address": "Charkop",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Dairy",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "9 October 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.freepressjournal.in/mumbai/mumbai-fda-crackdown-jj-hospital-canteen-islam-gymkhana-caterer-among-10-food-outlets-facing-action"
+        }
+      ]
+    },
+    {
+      "id": "nawab-juice-centre-islam-gymkhana-marine-lines",
+      "name": "Nawab Juice Centre",
+      "aliases": [],
+      "address": "Islam Gymkhana, Marine Lines",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Juice shop",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "9 October 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.freepressjournal.in/mumbai/mumbai-fda-crackdown-jj-hospital-canteen-islam-gymkhana-caterer-among-10-food-outlets-facing-action"
+        }
+      ]
+    },
+    {
+      "id": "nom-nom-restaurants-borivali",
+      "name": "Nom Nom Restaurants",
+      "aliases": [],
+      "address": "Borivali",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Restaurant",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "6 October 2026",
+          "title": "Enforcement action reported (licence/registration classification not independently resolved)",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.ndtvprofit.com/business/tukaram-mundhe-strikes-shagun-tardeo-lunch-home-johar-e-islam-among-11-in-mumbai-to-face-fda-heat-12146898"
+        }
+      ]
+    },
+    {
+      "id": "mumma-s-kitchen-borivali",
+      "name": "Mumma’s Kitchen",
+      "aliases": [],
+      "address": "Borivali",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Kitchen",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "6 October 2026",
+          "title": "Enforcement action reported (licence/registration classification not independently resolved)",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.ndtvprofit.com/business/tukaram-mundhe-strikes-shagun-tardeo-lunch-home-johar-e-islam-among-11-in-mumbai-to-face-fda-heat-12146898"
+        }
+      ]
+    },
+    {
+      "id": "chhotus-kitchen-borivali",
+      "name": "Chhotus Kitchen",
+      "aliases": [],
+      "address": "Borivali",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Kitchen",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "6 October 2026",
+          "title": "Enforcement action reported (licence/registration classification not independently resolved)",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.ndtvprofit.com/business/tukaram-mundhe-strikes-shagun-tardeo-lunch-home-johar-e-islam-among-11-in-mumbai-to-face-fda-heat-12146898"
+        }
+      ]
+    },
+    {
+      "id": "satkar-caterers-mumbai-division-outlet-unspecified",
+      "name": "Satkar Caterers",
+      "aliases": [],
+      "address": "Mumbai division; outlet unspecified",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Caterer",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "6 October 2026",
+          "title": "Enforcement action reported (licence/registration classification not independently resolved)",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.ndtvprofit.com/business/tukaram-mundhe-strikes-shagun-tardeo-lunch-home-johar-e-islam-among-11-in-mumbai-to-face-fda-heat-12146898"
+        }
+      ]
+    },
+    {
+      "id": "tardeo-lunch-home-tardeo",
+      "name": "Tardeo Lunch Home",
+      "aliases": [],
+      "address": "Tardeo",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Restaurant",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "6 October 2026",
+          "title": "Enforcement action reported (licence/registration classification not independently resolved)",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.ndtvprofit.com/business/tukaram-mundhe-strikes-shagun-tardeo-lunch-home-johar-e-islam-among-11-in-mumbai-to-face-fda-heat-12146898"
+        }
+      ]
+    },
+    {
+      "id": "shagun-veg-restaurant-mumbai-central",
+      "name": "Shagun Veg Restaurant",
+      "aliases": [],
+      "address": "Mumbai Central",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Restaurant",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "6 October 2026",
+          "title": "Enforcement action reported (licence/registration classification not independently resolved)",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.ndtvprofit.com/business/tukaram-mundhe-strikes-shagun-tardeo-lunch-home-johar-e-islam-among-11-in-mumbai-to-face-fda-heat-12146898"
+        }
+      ]
+    },
+    {
+      "id": "roshan-bakery-mumbai-division-outlet-unspecified",
+      "name": "Roshan Bakery",
+      "aliases": [],
+      "address": "Mumbai division; outlet unspecified",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Bakery",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "6 October 2026",
+          "title": "Enforcement action reported (licence/registration classification not independently resolved)",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.ndtvprofit.com/business/tukaram-mundhe-strikes-shagun-tardeo-lunch-home-johar-e-islam-among-11-in-mumbai-to-face-fda-heat-12146898"
+        }
+      ]
+    },
+    {
+      "id": "johar-e-islam-hotel-mumbai-division-outlet-unspecified",
+      "name": "Johar-E-Islam Hotel",
+      "aliases": [],
+      "address": "Mumbai division; outlet unspecified",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Restaurant",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "6 October 2026",
+          "title": "Enforcement action reported (licence/registration classification not independently resolved)",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.ndtvprofit.com/business/tukaram-mundhe-strikes-shagun-tardeo-lunch-home-johar-e-islam-among-11-in-mumbai-to-face-fda-heat-12146898"
+        }
+      ]
+    },
+    {
+      "id": "mister-momo-king-mumbai-division-outlet-unspecified",
+      "name": "Mister Momo King",
+      "aliases": [],
+      "address": "Mumbai division; outlet unspecified",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Restaurant",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "6 October 2026",
+          "title": "Enforcement action reported (licence/registration classification not independently resolved)",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.ndtvprofit.com/business/tukaram-mundhe-strikes-shagun-tardeo-lunch-home-johar-e-islam-among-11-in-mumbai-to-face-fda-heat-12146898"
+        }
+      ]
+    },
+    {
+      "id": "bharat-coffee-house-girgaon",
+      "name": "Bharat Coffee House",
+      "aliases": [],
+      "address": "Girgaon",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Restaurant",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "6 October 2026",
+          "title": "Enforcement action reported (licence/registration classification not independently resolved)",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://www.ndtvprofit.com/business/tukaram-mundhe-strikes-shagun-tardeo-lunch-home-johar-e-islam-among-11-in-mumbai-to-face-fda-heat-12146898"
+        }
+      ]
+    },
+    {
+      "id": "hotel-grand-purandar-pune",
+      "name": "Hotel Grand Purandar",
+      "aliases": [],
+      "address": "Pune",
+      "city": "Pune",
+      "district": "Pune",
+      "category": "Restaurant / food establishment",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "3 July 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://timesofindia.indiatimes.com/city/pune/pune-fda-suspends-licences-of-10-eateries-in-hygiene-safety-crackdown-across-three-districts/articleshow/132170089.cms"
+        }
+      ]
+    },
+    {
+      "id": "crown-bakers-sinhagad-road",
+      "name": "Crown Bakers",
+      "aliases": [],
+      "address": "Sinhagad Road",
+      "city": "Pune",
+      "district": "Pune",
+      "category": "Restaurant / food establishment",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "3 July 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://timesofindia.indiatimes.com/city/pune/pune-fda-suspends-licences-of-10-eateries-in-hygiene-safety-crackdown-across-three-districts/articleshow/132170089.cms"
+        }
+      ]
+    },
+    {
+      "id": "agroties-catering-pvt-ltd-ambegaon",
+      "name": "Agroties Catering Pvt Ltd",
+      "aliases": [],
+      "address": "Ambegaon",
+      "city": "Pune",
+      "district": "Pune",
+      "category": "Restaurant / food establishment",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "3 July 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://timesofindia.indiatimes.com/city/pune/pune-fda-suspends-licences-of-10-eateries-in-hygiene-safety-crackdown-across-three-districts/articleshow/132170089.cms"
+        }
+      ]
+    },
+    {
+      "id": "barkat-biryani-house-wagholi",
+      "name": "Barkat Biryani House",
+      "aliases": [],
+      "address": "Wagholi",
+      "city": "Pune",
+      "district": "Pune",
+      "category": "Restaurant / food establishment",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "3 July 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://timesofindia.indiatimes.com/city/pune/pune-fda-suspends-licences-of-10-eateries-in-hygiene-safety-crackdown-across-three-districts/articleshow/132170089.cms"
+        }
+      ]
+    },
+    {
+      "id": "royal-biryani-house-wagholi",
+      "name": "Royal Biryani House",
+      "aliases": [],
+      "address": "Wagholi",
+      "city": "Pune",
+      "district": "Pune",
+      "category": "Restaurant / food establishment",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "3 July 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://timesofindia.indiatimes.com/city/pune/pune-fda-suspends-licences-of-10-eateries-in-hygiene-safety-crackdown-across-three-districts/articleshow/132170089.cms"
+        }
+      ]
+    },
+    {
+      "id": "national-360-bavdhan",
+      "name": "National 360",
+      "aliases": [],
+      "address": "Bavdhan",
+      "city": "Pune",
+      "district": "Pune",
+      "category": "Restaurant / food establishment",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "3 July 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://timesofindia.indiatimes.com/city/pune/pune-fda-suspends-licences-of-10-eateries-in-hygiene-safety-crackdown-across-three-districts/articleshow/132170089.cms"
+        }
+      ]
+    },
+    {
+      "id": "hotel-gamat-jamat-satara-district",
+      "name": "Hotel Gamat Jamat",
+      "aliases": [],
+      "address": "Satara district",
+      "city": "Satara",
+      "district": "Satara",
+      "category": "Restaurant / food establishment",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "3 July 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://timesofindia.indiatimes.com/city/pune/pune-fda-suspends-licences-of-10-eateries-in-hygiene-safety-crackdown-across-three-districts/articleshow/132170089.cms"
+        }
+      ]
+    },
+    {
+      "id": "atithi-hotel-sangli-district",
+      "name": "Atithi Hotel",
+      "aliases": [],
+      "address": "Sangli district",
+      "city": "Sangli",
+      "district": "Sangli",
+      "category": "Restaurant / food establishment",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "3 July 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://timesofindia.indiatimes.com/city/pune/pune-fda-suspends-licences-of-10-eateries-in-hygiene-safety-crackdown-across-three-districts/articleshow/132170089.cms"
+        }
+      ]
+    },
+    {
+      "id": "hotel-madhuban-sangli-district",
+      "name": "Hotel Madhuban",
+      "aliases": [],
+      "address": "Sangli district",
+      "city": "Sangli",
+      "district": "Sangli",
+      "category": "Restaurant / food establishment",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "3 July 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://timesofindia.indiatimes.com/city/pune/pune-fda-suspends-licences-of-10-eateries-in-hygiene-safety-crackdown-across-three-districts/articleshow/132170089.cms"
+        }
+      ]
+    },
+    {
+      "id": "hotel-repal-bandhu-sangli-district",
+      "name": "Hotel Repal Bandhu",
+      "aliases": [],
+      "address": "Sangli district",
+      "city": "Sangli",
+      "district": "Sangli",
+      "category": "Restaurant / food establishment",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "3 July 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://timesofindia.indiatimes.com/city/pune/pune-fda-suspends-licences-of-10-eateries-in-hygiene-safety-crackdown-across-three-districts/articleshow/132170089.cms"
+        }
+      ]
+    },
+    {
+      "id": "baba-s-kitchen-mulshi",
+      "name": "Baba’s Kitchen",
+      "aliases": [],
+      "address": "Mulshi",
+      "city": "Pune",
+      "district": "Pune",
+      "category": "Restaurant",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "20 August 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://indianexpress.com/article/cities/pune/pune-fda-suspends-licenses-kfc-bavdhan-babas-kitchen-mulshi-ambrosios-hygiene-violations-10842280/"
+        }
+      ]
+    },
+    {
+      "id": "ambrosios-pune-district-precise-outlet-unconfirmed",
+      "name": "Ambrosios",
+      "aliases": [],
+      "address": "Pune district; precise outlet unconfirmed",
+      "city": "Pune",
+      "district": "Pune",
+      "category": "Restaurant",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "20 August 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://indianexpress.com/article/cities/pune/pune-fda-suspends-licenses-kfc-bavdhan-babas-kitchen-mulshi-ambrosios-hygiene-violations-10842280/"
+        }
+      ]
+    },
+    {
+      "id": "shrinath-food-corner-hinjewadi",
+      "name": "Shrinath Food Corner",
+      "aliases": [],
+      "address": "Hinjewadi",
+      "city": "Pune",
+      "district": "Pune",
+      "category": "Restaurant",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "20 August 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://indianexpress.com/article/cities/pune/pune-fda-suspends-licenses-kfc-bavdhan-babas-kitchen-mulshi-ambrosios-hygiene-violations-10842280/"
+        }
+      ]
+    },
+    {
+      "id": "sapphire-foods-kfc-bavdhan",
+      "name": "Sapphire Foods (KFC)",
+      "aliases": [],
+      "address": "Bavdhan",
+      "city": "Pune",
+      "district": "Pune",
+      "category": "QSR",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "20 August 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://indianexpress.com/article/cities/pune/pune-fda-suspends-licenses-kfc-bavdhan-babas-kitchen-mulshi-ambrosios-hygiene-violations-10842280/"
+        }
+      ]
+    },
+    {
+      "id": "bigbasket-karve-road",
+      "name": "BigBasket",
+      "aliases": [],
+      "address": "Karve Road",
+      "city": "Pune",
+      "district": "Pune",
+      "category": "Retail / grocery",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "September 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://indianexpress.com/article/cities/pune/fda-suspends-restaurant-licences-seizes-food-worth-rs-1-18-crore-pune-10890279/"
+        }
+      ]
+    },
+    {
+      "id": "rangla-punjab-sutarwadi-pashan",
+      "name": "Rangla Punjab",
+      "aliases": [],
+      "address": "Sutarwadi, Pashan",
+      "city": "Pune",
+      "district": "Pune",
+      "category": "Restaurant",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "September 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://indianexpress.com/article/cities/pune/fda-suspends-restaurant-licences-seizes-food-worth-rs-1-18-crore-pune-10890279/"
+        }
+      ]
+    },
+    {
+      "id": "manisha-dosa-center-tathawade",
+      "name": "Manisha Dosa Center",
+      "aliases": [],
+      "address": "Tathawade",
+      "city": "Pune",
+      "district": "Pune",
+      "category": "Restaurant",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "September 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://indianexpress.com/article/cities/pune/fda-suspends-restaurant-licences-seizes-food-worth-rs-1-18-crore-pune-10890279/"
+        }
+      ]
+    },
+    {
+      "id": "sppu-girls-hostel-mess-savitribai-phule-pune-university",
+      "name": "SPPU Girls Hostel Mess",
+      "aliases": [],
+      "address": "Savitribai Phule Pune University",
+      "city": "Pune",
+      "district": "Pune",
+      "category": "Canteen",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "8 October 2026",
+          "title": "14-day food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://indianexpress.com/article/cities/pune/maharashtra-fda-suspends-food-licence-savitribai-phule-pune-university-sppu-girls-hostel-mess-insects-hygiene-violations-10914509/"
+        }
+      ]
+    },
+    {
+      "id": "café-mondegar-colaba",
+      "name": "Café Mondegar",
+      "aliases": [],
+      "address": "Colaba",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "category": "Restaurant",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "September 2026",
+          "title": "Food licence suspension reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://indianexpress.com/article/cities/mumbai/cafe-mondegar-maharashtra-biryani-center-lose-licences-fda-crackdown-tukaram-mundhe-10879447/"
+        }
+      ]
+    },
+    {
+      "id": "royal-bakery-chhatrapati-sambhajinagar-outlet-unspecified",
+      "name": "Royal Bakery",
+      "aliases": [],
+      "address": "Chhatrapati Sambhajinagar (outlet unspecified)",
+      "city": "Chhatrapati Sambhajinagar",
+      "district": "Chhatrapati Sambhajinagar",
+      "category": "Bakery",
+      "status": "historical",
+      "note": "Historical media-reported regulatory action. This is not a claim that the business is currently suspended. Any restoration or later inspection has not yet been verified. Only the named establishment/location is covered.",
+      "events": [
+        {
+          "date": "10 October 2026",
+          "title": "FDA production and sales restriction reported",
+          "description": "Contemporaneous reporting named this establishment in a Maharashtra FDA food-safety enforcement action. Follow the original source for the specific allegations and context. Subsequent legal or licensing status is unverified.",
+          "source": "https://maharashtratimes.com/maharashtra/aurangabad/fda-suspended-food-license-of-royal-bakery-in-chhatrapati-sambhajinagar-after-rubber-pieces-found-in-royal-cup-cakes/articleshow/134855324.cms"
+        }
+      ]
     }
   ]
 }

@@ -58,3 +58,14 @@ Add official FDA published-document monitoring, more Marathi-language RSS source
 ## Independent project name
 
 The Mundhe Effect is an independent public-information project. It is not affiliated with or endorsed by Tukaram Mundhe, Maharashtra FDA, FSSAI, or any government agency. The name is a reference to the public conversation about food-safety enforcement, not an official designation.
+
+
+## V2 data expansion (11 October 2026)
+
+- Added 40 individually named historical enforcement records from dated press coverage, giving 43 public entries. These are **news-supported reports, not verified current licensing states**.
+- The index is not yet a comprehensive food-business census and does not contain a bulk FSSAI licensing feed.
+- Expanded free Google News RSS discovery to Pune, Nagpur, Nashik, Thane, Raigad, Kolhapur, Sangli, Satara, and Chhatrapati Sambhajinagar.
+- Removed the 500-lead truncation so pending leads aren't silently thrown away. Keep monitoring GitHub repository size and prune reviewed leads into a separate archival process later.
+- `review_candidates.json` is still review-only; **never publish article leads automatically as violations**.
+- The documented events should be amended immediately if reliable reinstatement evidence appears.
+- Upload the contents of this ZIP to the existing GitHub repository, preserving `.github`. The existing Cloudflare Git deployment should pick up changes automatically.
