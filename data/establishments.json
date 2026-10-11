@@ -1,0 +1,26 @@
+{
+  "last_reviewed": "11 October 2026",
+  "establishments": [
+    {
+      "id":"bmc-hq-canteen", "name":"BMC Headquarters Annexe Canteen", "aliases":["Kamal Caterers","BMC Canteen"], "address":"BMC Headquarters Annexe, Fort", "city":"Mumbai", "district":"Mumbai City", "category":"Canteen", "status":"positive",
+      "note":"A historical closure and a subsequent reopening are both reported. The positive label concerns the documented reinspection, not a permanent certification.",
+      "events":[
+        {"date":"20 August 2026","title":"Licence suspension revoked; canteen reopened","description":"Hindustan Times reported that Maharashtra FDA revoked the suspension after substantial rectification of identified deficiencies. Indian Express later reported a 94% compliance result on reinspection.","source":"https://www.hindustantimes.com/cities/mumbai-news/fda-restores-bmc-headquarters-canteen-licence-after-19-of-the-22-lapses-rectified-101787163076945.html"},
+        {"date":"23 July 2026","title":"Closed following FDA action","description":"The canteen was closed following reported hygiene and food-safety non-compliances.","source":"https://indianexpress.com/article/cities/mumbai/fda-bmc-hq-canteen-reopens-food-licence-10913854/"}
+      ]
+    },
+    {
+      "id":"mmrda-hq-canteen", "name":"MMRDA Headquarters Canteen", "aliases":["MMRDA canteen"], "address":"MMRDA headquarters, Bandra Kurla Complex", "city":"Mumbai", "district":"Mumbai Suburban", "category":"Canteen", "status":"historical",
+      "note":"Reports indicate operations were permitted to resume after the operator obtained the required licence. A reopening does not independently establish a satisfactory hygiene inspection.",
+      "events":[
+        {"date":"7 August 2026","title":"Permitted to reopen after obtaining food licence","description":"Indian Express reported FDA permission for resumption of operations after the operator obtained the necessary FSSAI licence.","source":"https://indianexpress.com/article/cities/mumbai/mmrda-canteen-in-mumbai-allowed-to-reopen-after-operator-gets-food-safety-licence-10822436/"},
+        {"date":"3 August 2026","title":"Ordered to stop operations","description":"An FDA inspection reportedly found the contractor operating without the mandatory FSSAI licence.","source":"https://indianexpress.com/article/cities/mumbai/mmrda-canteen-in-mumbai-allowed-to-reopen-after-operator-gets-food-safety-licence-10822436/"}
+      ]
+    },
+    {
+      "id":"suraj-lama-momos", "name":"Suraj Lama Momos", "aliases":["Suraj Lama momo shop"], "address":"Andheri West", "city":"Mumbai", "district":"Mumbai Suburban", "category":"Restaurant", "status":"historical",
+      "note":"A licence suspension was reported in October 2026. The current legal status has not been independently verified. Historical action is shown rather than claiming a current suspension.",
+      "events":[{"date":"October 2026","title":"Licence suspension reported","description":"Indian Express reported that the establishment was among eateries whose food licences were suspended by Maharashtra FDA. Subsequent restoration status has not been verified.","source":"https://indianexpress.com/article/entertainment/bollywood/tukaram-mundhe-shuts-down-suraj-lama-sonakshi-sinha-shahid-kapoor-driver-momo-shop-10908712/"}]
+    }
+  ]
+}
