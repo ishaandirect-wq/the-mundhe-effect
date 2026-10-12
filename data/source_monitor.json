@@ -3,8 +3,8 @@
     "https://hygiene.fssai.gov.in/adminAuditListFbo.php": {
       "sha256": "d5829e299dd6ebad4ea4ad8d69ce59bad97f9f648fc0a1a70941caaca80e88c6",
       "item_count": 699,
-      "last_success": "2026-10-12T07:05:52.297663+00:00",
-      "last_attempt": "2026-10-12T07:05:52.297684+00:00",
+      "last_success": "2026-10-12T11:01:47.909194+00:00",
+      "last_attempt": "2026-10-12T11:01:47.909210+00:00",
       "error_type": null,
       "last_changed": "2026-10-12T06:01:15.033247+00:00",
       "review_required": true
@@ -13,8 +13,8 @@
       "sha256": "e7bdf7a4811673ba82b2953bd8ee3a4d67552d12674c20ce08778df1ea4ba057",
       "item_count": 1,
       "last_success": "2026-10-12T07:05:54.834995+00:00",
-      "last_attempt": "2026-10-12T07:05:54.835011+00:00",
-      "error_type": null,
+      "last_attempt": "2026-10-12T11:02:16.393240+00:00",
+      "error_type": "URLError",
       "last_changed": "2026-10-12T06:03:52.408678+00:00",
       "review_required": true
     },
@@ -22,8 +22,8 @@
       "sha256": "9cfbf3c04b45dbd65826a577b7465f96cf81d01eecb56232c798712353a5bc02",
       "item_count": 3,
       "last_success": "2026-10-12T07:05:57.038813+00:00",
-      "last_attempt": "2026-10-12T07:05:57.038830+00:00",
-      "error_type": null,
+      "last_attempt": "2026-10-12T11:02:49.428291+00:00",
+      "error_type": "URLError",
       "last_changed": "2026-10-12T06:03:54.036580+00:00",
       "review_required": true
     }
