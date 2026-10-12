@@ -1,71 +1,67 @@
 # The Mundhe Effect
 
-A friendly, completely free, independent public-record directory for food businesses across Maharashtra. **Not affiliated with Maharashtra FDA or FSSAI.**
+A free, independent public-record directory for Maharashtra food businesses. Not affiliated with Tukaram Mundhe, Maharashtra FDA, FSSAI or any government agency.
 
-This is a static website with no paid services or external API keys. Initial data is deliberately small; the objective is to expand coverage responsibly, not to invent clearance records.
+## Consolidated expansion — 12 October 2026
 
-## Quick local preview
+- **692 directory entries**, preserving all 43 existing records and their original event fields.
+- **640 new licence-linked FSSAI entries** with **659 historical favourable audit records**, verified against the official published register. Repeat audits remain separate timeline events.
+- **9 new media-supported entries** recording reinstatements or stays alongside preceding actions/inspections.
+- Official favourable records cover **32 named districts plus unspecified Mumbai jurisdictions**. Other media entries also cover Mumbai City. Coverage remains partial; Dharashiv, Gadchiroli and Solapur have no included records.
+- Browsing now supports district/region, source, event type, licence-number search, and pagination. Each detail view states that current licensing is unverified.
 
-From the project folder:
+The official audit records are from **2018–2021**, not current clearances. Counts are directory entries, not a guaranteed number of unique physical premises. Do not combine same-name outlets across sources without reliable identity evidence.
 
-```bash
+Read [methodology](docs/methodology.md), [district coverage](docs/coverage.md), and [validation report](docs/update-2026-10-12.md).
+
+## Free local preview
+
+Use Python 3.11 or later (CI uses 3.12):
+
+```sh
 python3 -m http.server 8000
 ```
 
-Open http://localhost:8000. Do not open index.html directly from the filesystem because the browser loads JSON via fetch.
+Open http://localhost:8000. The static site needs HTTP to load JSON. There is no package install, database, login, paid service or API key.
 
-## Deploy for free (easiest path)
+## Daily pipeline
 
-1. Create a new **public** GitHub repository and upload all files in this directory, including `.github/workflows/daily-scan.yml` (some drag-and-drop uploads omit hidden folders; check this).
-2. Open [Cloudflare Pages](https://dash.cloudflare.com/) and choose **Workers & Pages → Create → Pages → Connect to Git**. Authorize your repository.
-3. Select the repository, choose **no framework**, leave build command blank, and set output directory to `/` (or follow the Pages dashboard's current static-site instructions).
-4. Deploy. Use your free `*.pages.dev` URL. A custom domain is not needed.
-5. In GitHub, open **Actions → Daily public food-safety news scan → Run workflow** for the first test. The schedule is approximately 08:47 IST daily; GitHub scheduled workflows can be delayed.
-6. Open `data/review_candidates.json` in GitHub after a run to see new leads. Review original sources before adding or changing any entries in `data/establishments.json`.
+`.github/workflows/daily-scan.yml` runs around **08:47 IST** on the default branch, and can be run manually from Actions. GitHub schedules can be delayed or disabled after repository inactivity.
 
-**Note:** The `review_candidates.json` file is publicly viewable in the repository and is a lead list, not a set of verified allegations. It is not used by the website. The scraper can encounter access restrictions or incomplete RSS coverage and is not an authoritative source of comprehensive regulatory actions.
+It runs 40 public RSS searches (36 district queries plus statewide/Marathi/follow-up searches) and monitors three official listings. Source changes prompt review; they do not automatically change the public directory. New news leads store generic titles and source links instead of unverified headline allegations. Existing queue records and decisions are retained. The website does not consume the review queue.
 
-## Adding a directory record
+`data/source_monitor.json` records attempts, successful checks, source changes and failures. `review_required` stays true until a reviewer clears it after checking the source. The workflow summary provides totals. Partial or complete source failures visibly fail the job after preserving successful discovery metadata. No logs print raw headline allegations.
 
-Edit `data/establishments.json` and append an establishment object with a unique `id`, `name`, `address`, `city`, `district`, `category`, `status`, `note`, and an `events` list. Each event needs a `date`, `title`, `description`, and credible `source` URL. Status values: `positive`, `historical`, `suspension`, `unknown`.
+The job has a time limit, source retries, response-size limits, atomic file writes, semantic source fingerprints and a concurrency lock. It stages only `data/review_candidates.json` and `data/source_monitor.json`, verifies the reviewed directory was untouched, and rebases before pushing without force. Branch protection can prevent bot commits; if that occurs, the run fails visibly rather than bypassing it.
 
-- Use **positive** only for a documented favourable inspection / audit result, and name the specific scheme and date.
-- Use **historical** when there is an old enforcement event even if resolved (unless a favourable reinspection clearly supports a positive *display status*, while the historical event remains in the timeline).
-- Use **suspension** for a documented licence suspension, but do *not* claim it is currently suspended without sufficiently recent official verification.
-- Use **unknown** only for neutral, deliberately researched establishments, never as evidence of inspection or approval.
-- Never copy action status from one outlet to all branches of a chain.
-- Prioritize authoritative government documents; accurately label newspaper accounts as reported.
-- Update the top-level `last_reviewed` date only after reviewing published records.
+Standard Ubuntu runners are free for public repositories under [GitHub's current billing rules](https://docs.github.com/en/billing/concepts/product-billing/github-actions). The daily job refuses private repositories. There are no artifact uploads, caches, paid runners or third-party subscriptions. Existing static hosting is unchanged; no paid plan should be activated.
 
-The UI has no login or admin backend. Edits to the reviewed JSON dataset are the approval mechanism. This keeps the site free, safe and simple.
+## Review and apply records
 
-## Corrections and contact
+Each published event requires a dated source and exact business/outlet identity. Prefer official documents. Label media events as reported. Check for later reinstatement, revocation or stay, and retain the earlier event. A reopening or stay alone does not establish a satisfactory hygiene audit.
 
-Replace `corrections@example.com` in `index.html` with a public contact email **before launch**, or remove that link if no email inbox is available. Treat business corrections respectfully, retain the original event history, and link to official reinstatement documents where available.
+The recorded statuses `positive`, `historical`, `suspension`, and `unknown` describe dated evidence. Current licence status is separately **unknown** throughout this dataset. Never infer that absence of records proves safety, wrongdoing or that an inspection never occurred. Unspecified addresses and blank cities are intentional when sources do not provide them.
 
-## Known limits
+To reproduce the reviewed FSSAI import from the checked-in snapshot:
 
-- The site does not yet contain a complete statewide registry. The daily scan finds **news leads**, not all inspections or clearances.
-- Google News RSS can change availability and is not a comprehensive substitute for primary FDA records.
-- There is no paid AI, no automated regulatory judgement, no CAPTCHA bypass, and no claim that a business is definitively safe or unsafe.
-- Cloudflare/GitHub free tiers and their fair-use restrictions apply. Usage beyond their free allowances may require restructuring; do not activate a paid plan.
-- For exhaustive official inspection records, a formal Maharashtra FDA data request or RTI may be necessary and may not be free.
+```sh
+python3 scripts/import_fssai.py --snapshot data/sources/fssai-2026-10-12.json
+# Preview above; apply only after source and identity review:
+python3 scripts/import_fssai.py --snapshot data/sources/fssai-2026-10-12.json --apply
+python3 scripts/validate.py
+python3 -m unittest discover -s tests -v
+```
 
-## Next expansion (still free)
+This import is idempotent and preserves an existing record's status/history. It never downloads or publishes fresh source data on its own. Source layout changes and inconsistent scores fail closed or exclude the row. The snapshot records exact source columns and the upstream download hash. See the methodology for the conservative favourable-record inclusion criteria.
 
-Add official FDA published-document monitoring, more Marathi-language RSS sources, CSV bulk import with outlet-level matching, and a lightweight browser-based review workflow after the initial launch is validated.
+New imports from other snapshots require updating the snapshot provenance and validator deliberately; daily collection never runs the importer.
 
-## Independent project name
+`validate.yml` checks pull requests and pushes to main. Structural validation cannot determine whether an article is true or a licence is currently valid; source review remains necessary.
 
-The Mundhe Effect is an independent public-information project. It is not affiliated with or endorsed by Tukaram Mundhe, Maharashtra FDA, FSSAI, or any government agency. The name is a reference to the public conversation about food-safety enforcement, not an official designation.
+## Corrections and publishing
 
+Use [repository issues](https://github.com/ishaandirect-wq/the-mundhe-effect/issues/new) for sourced corrections. The original placeholder email has been removed. Include only public evidence, the exact outlet and the entry ID.
 
-## V2 data expansion (11 October 2026)
+Merge the consolidated pull request to apply the update. The existing connected static hosting deployment should then pick up main; no hosting configuration or paid service is introduced. This repository does not yet contain exhaustive official FDA inspection/clearance data. Full coverage depends on further publicly available source material and continued review.
 
-- Added 40 individually named historical enforcement records from dated press coverage, giving 43 public entries. These are **news-supported reports, not verified current licensing states**.
-- The index is not yet a comprehensive food-business census and does not contain a bulk FSSAI licensing feed.
-- Expanded free Google News RSS discovery to Pune, Nagpur, Nashik, Thane, Raigad, Kolhapur, Sangli, Satara, and Chhatrapati Sambhajinagar.
-- Removed the 500-lead truncation so pending leads aren't silently thrown away. Keep monitoring GitHub repository size and prune reviewed leads into a separate archival process later.
-- `review_candidates.json` is still review-only; **never publish article leads automatically as violations**.
-- The documented events should be amended immediately if reliable reinstatement evidence appears.
-- Upload the contents of this ZIP to the existing GitHub repository, preserving `.github`. The existing Cloudflare Git deployment should pick up changes automatically.
+Bulk official entries are stored in 13 files under `data/establishments/`, with up to 50 licence-linked records per file. `data/establishments.json` retains the original entries and lists the additional files. The website and offline validator load every part before displaying or validating the complete directory. This keeps the bulk update reviewable through GitHub tooling; all 692 entries and all source evidence are retained.

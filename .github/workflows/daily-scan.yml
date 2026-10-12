@@ -1,36 +1,68 @@
-
 name: Daily food safety scan
 
 on:
   schedule:
-    - cron: '17 3 * * *'
+    - cron: '17 3 * * *' # Approximately 08:47 IST; scheduling can be delayed.
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+
+concurrency:
+  group: food-safety-daily-scan
+  cancel-in-progress: false
 
 jobs:
   scan:
+    if: github.event.repository.private == false && github.ref_name == github.event.repository.default_branch
     runs-on: ubuntu-latest
-
+    timeout-minutes: 25
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Checkout default branch
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
-          python-version: '3.11'
-
-      - name: Run scanner
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: '3.12'
+      - name: Validate reviewed directory and test scanner safeguards
+        run: |
+          python scripts/validate.py
+          python -m unittest discover -s tests -v
+      - name: Discover links and monitor official sources
+        id: scanner
+        continue-on-error: true
         run: python scripts/collect.py
-
-      - name: Commit updated candidates
+      - name: Verify public directory remained unchanged
+        run: git diff --exit-code -- data/establishments.json data/establishments/ data/sources/
+      - name: Preserve scan metadata and review links
+        env:
+          TARGET_BRANCH: ${{ github.event.repository.default_branch }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
-          if ! git diff --cached --quiet; then
-            git commit -m "Update daily food safety scan"
-            git push
+          git add -- data/review_candidates.json
+          if [ -f data/source_monitor.json ]; then
+            git add -- data/source_monitor.json
           fi
+          if ! git diff --cached --quiet; then
+            git commit -m "Update discovery links and official source health"
+            for attempt in 1 2 3; do
+              git fetch origin "$TARGET_BRANCH"
+              git rebase "origin/$TARGET_BRANCH"
+              if git push origin "HEAD:$TARGET_BRANCH"; then
+                exit 0
+              fi
+              sleep 3
+            done
+            exit 1
+          fi
+      - name: Surface partial or complete source failures
+        if: always() && steps.scanner.outcome == 'failure'
+        run: |
+          echo "Source scan degraded or failed. See the run summary and source health; no regulatory judgement was published."
+          exit 1
