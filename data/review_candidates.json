@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-12T11:02:49.428326+00:00",
+  "last_checked": "2026-10-13T10:45:24.872739+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -309,6 +309,16 @@
       "publisher": "Adda247",
       "published": "Mon, 12 Oct 2026 05:53:56 GMT",
       "discovered": "2026-10-12",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "3b9eaeaa1a2f02fed637",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR1ZKclpHT05YeTRuOVNhY3lBMnU4Vmk4Mms5UDBveUF2NUs2RVFqYkRLNnRNWF9tVnRHRVd2cEtzTVFpTmhPNkUxYjJsYnBEZnVCYXIxTlJZaGtOaWxEcFNTQWdmRzcwSlVzLXBxTUtBTVJZamM5N2RTVGlhYkxNS1BJLTVZMnNIOVpyWklGWXNZSGxzZnZXWkJlWWxuZXNGaXBUTEVpSHc1UkJVOE5XSzJvc2pTVTVUcnNQSTFKTHB3aFBVTDdlcloyUUxGT0ptNUHSAdcBQVVfeXFMTzVpem9QZ0JmN0J1SnRaQ0FqVUpSeG1CSHNFQWF0X2tZREVqRldkaXVUckRmT2h0X25lbVB5N3NMSWlLQmZoRGxRS042MGk2dkpKck1Fai1oWXY4V3hWdllTbU5JMXRwOFhxR3p1ZW1HM0NuUHgtVE5lNUU4ZFJXbmxYbzBGU1dpWTZKQlFqREtTQ2hNZmZRZ1pmQlQ3bTNJeGRWN2Z2SVo5SThZNGl5bHhKN0Z6NXhSdTdQampMbERVVDR2ZVYyR3g5cjdkVWIxbjQzTThjLW8?oc=5",
+      "publisher": "LatestLY",
+      "published": "Tue, 06 Oct 2026 15:47:55 GMT",
+      "discovered": "2026-10-13",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
