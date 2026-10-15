@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-14T08:50:15.662842+00:00",
+  "last_checked": "2026-10-15T08:25:20.980284+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -319,6 +319,26 @@
       "publisher": "LatestLY",
       "published": "Tue, 06 Oct 2026 15:47:55 GMT",
       "discovered": "2026-10-13",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "51298f4bc0424af4ec52",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUg1SDRpbjRYRFFtYXlwSmhZSkV2UC12X2hZcWp0YWFiM3Z4S3VRR2tXeTRvcU8yUlVQbUNwbkhIVE5ORTg2akR2V1ZHby1xVlJtRTJ1UzJSdl9wczd1Q0pVcF80ckV2U0ZaZFcwdnExU2hQRzZZclgyLUh0T1p3NHdIRVlZOHNhTUhrY1l5LUZzTm5QdU9Td3p3dldtRDFTZkFCbEtFOHnSAa4BQVVfeXFMTjJ1dTJmckg5djAtX0xfTzExcFBiR2U2YXpLR0JqVndYYThlNVpQdVhnUmw0T0Nzd1d0aFJfcGNyQVo4bTVVd1RLaWtTbjR2SF9UdWZUU2JWTXFHMDh3OVpMVXdoN0xUazhodmlvaFk4Q2NRSUpqeXFxNXJHdk9LU3c1MHVXMlJVNE1RZXlHZmk4SmhWT0lwejh5SG8wRGlpcDJFZmR6elBKVXNObFBn?oc=5",
+      "publisher": "Times Now",
+      "published": "Thu, 15 Oct 2026 06:41:30 GMT",
+      "discovered": "2026-10-15",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "42ccfb4478239a89b041",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMlV0Nk0wa1pfT1owMW82bDBnX2VLdWl6cExsWXY5WDZzdzJFY3FJNm8yNWpxN05UUDJXbk81ODU2LVdvVWZ0X0tHVUVQeWc3MUNieGlxdXltNTJzUmgteERwTzNHQXZtbS1ZbUZnWEk5TWZVc1N0M0FFM0tLZ01tc3pXUGZITFhLRGhZUnIxZTltUHdhMmpvWUxnanBKdEtWQmRnYlZvYkpnTVc4S084VnhWQkxKOFRRVGswOGM4YldKLXd6VUl1QnluMHduRHpsLTVyNnZSQkhQRDV4aEt1REZVZTV2dG5sNW5QYUszUVFLTlRBaGF4Y19iT0JQMnVJV0pVdmVYQdIBjgJBVV95cUxNc3V3Y1BySGpBaU5rZU9jSTNoQjltNHUxR1R5ZHhzdGVWRWRLOGJDVHN6ZzZ6cmRCLU5FaUhHN1AyMGNiTGYtQ0ViX1EwUXdMSVlWcTJhSXhrNEptYm5qNEE2eDBmOEJ3ZFFKOFY1SUhHcll5c0NWTUVJRjQ2UWJfaEo1bFFXRnZDb1k1ZG1IZXVhZmk4SFJsYVNvNnJnbDltbHhiTlZheEl4Mk5BMGFiLXBiQW9qalVoZE81MHZ5WERiZmxCTU05VEs3VGVMdTFKbF9aNFBFZDJqYUw1bldDaTQ2Mm11cWgxcWZIWThoT2Q3bElIaVlwdlBUUk1wdlhTaGZtMlU3UnZ6Sl9hUmc?oc=5",
+      "publisher": "The Indian Express",
+      "published": "Fri, 09 Oct 2026 14:52:19 GMT",
+      "discovered": "2026-10-15",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
