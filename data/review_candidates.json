@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-15T08:25:20.980284+00:00",
+  "last_checked": "2026-10-16T08:18:18.101125+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -339,6 +339,26 @@
       "publisher": "The Indian Express",
       "published": "Fri, 09 Oct 2026 14:52:19 GMT",
       "discovered": "2026-10-15",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "8b01e48ba751693d3a7a",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWYwUmJ2Y0lxSjR6Vk9Pd3pqeG9DdXI3eUk2TG14NU8zV2d5QXRJVU5LTHI5REtFRjBxOVpQNElqWWk3VkhzemtCWEJjYVFmbkF4MXc1Y3B3cVdYU2lSeFc2VU1UU0FwR1oxcktQSnZhZW9pU09VZm1CenhZTW5HbDA2d2dTLTNVdG1VNzZIaGtaeF9iRmZFTHA5ZEk3cXFKWlRMclpLV05wUjVmcDZvNmFJaTZUMWs2em5oeG9jR3VOLXJUS1ptczNJVC1yZ9IB0wFBVV95cUxPemJmV1FiZnBzSkRvRndRWjE0ZzN6RHpFY3d2dXJ2eGhUZkl6YklKTzdTX21HSjI5d2g3ZmRvWWFzT2VDMWZHY3NnS2tOb1ZNcGNxN0FCN2V5NnR4elhXcGlzQlBaMGNyN1dJM3BwV0FsZWpkWW9hUkJiQXZOclgwWHNib180Yy00Wjhuc3FqeEctNU5HMzBJNXRxOVhnb2hTcDZMcnJSWkpHMEJ2V0dENW15cHoya3JUZkpUSHgwdjRIWWtRUjhwejh6OEVrWnp3clBR?oc=5",
+      "publisher": "News18",
+      "published": "Thu, 15 Oct 2026 08:08:24 GMT",
+      "discovered": "2026-10-16",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "5b3b8628e38e883ad14e",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWXZDU2dfRE5RYVhrRUlFQVZtUFcyZ182cEF5MDg5VllsYW5DWXNLcl9RTlhLNkJSWXY3WElab1lWak9BRmRob3kyMmxfMXlsUnpjdGNGSVRHeE5Od21lN0tRWHhwYjh6eXU4M1Z6Ync1LWlKZ3lLRDNnNVRrNzNvOHNNUzNpeW94UVdsTmpVczZBdTJqeHhZV2EwdUtHTG5xZFlYSVA5YThIVFVBWDV1N0tOdkRISlIw0gG4AUFVX3lxTE9ZdkNTZ19ETlFhWGtFSUVBVm1QVzJnXzZwQXkwODlWWWxhbkNZc0tyX1FOWEs2QlJZdjdYSVpvWVZqT0FGZGhveTIybF8xeWxSemN0Y0ZJVEd4Tk53bWU3S1FYeHBiOHp5dTgzVnpidzUtaUpneUtEM2c1VGs3M284c01TM2l5b3hRV2xOalVzNkF1Mmp4eFlXYTB1S0dMbnFkWVhJUDlhOEhUVUFYNXU3S052REhKUjA?oc=5",
+      "publisher": "Free Press Journal",
+      "published": "Thu, 15 Oct 2026 08:04:16 GMT",
+      "discovered": "2026-10-16",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
