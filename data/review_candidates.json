@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-17T07:53:50.705323+00:00",
+  "last_checked": "2026-10-18T08:09:30.352620+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -369,6 +369,26 @@
       "publisher": "Free Press Journal",
       "published": "Fri, 16 Oct 2026 18:40:44 GMT",
       "discovered": "2026-10-17",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "ea229b21099b4441800c",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRC1UREoyaHV1QnpfSm9vTUVTaWx5NzZlOGtXZ2pjam56NDFaTThBcEtCUGlfcWhJQmgtc29ic2hhWkM2WElvOUZGcVNoY0pHblZmZkR2YWRkeXcyQ2FqTlNiV3lnRWpqY1VHUXJLSG90aXFuVjRGZXotYzJrelU1WllORHdmZmJZblkzQ0x2Zy1KOHFEYVlyOHRB?oc=5",
+      "publisher": "Urban Acres",
+      "published": "Sat, 17 Oct 2026 04:11:20 GMT",
+      "discovered": "2026-10-18",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "bd3c78840ea652285a2e",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbHZVbTFpbFk3Vmdrby1RcEs3S3FzbkZpVU9kUGFhaDBuT2hNYzJLV3I3cHFka0o1UWpwNldxcGxaOUJ4T2Q1YkhLYmhwSE1Ndm9LRk8xRzIxQjRpX1dkYzFQYV9IVDJZZGFPeWs1VVpLT0Y5NGZHTU82eGVIQ3diOTVrY2xXVVpTOEl4R1R1eUJzcnBRekI3cUh4ZXVJTzY3bWxSVmFGZlNDbHFWbWZybUNCVkQ3YVM0eXJPOUZyc0FEZ3VkWFMzckpGNHRSVkhULWEzdm9EVW9GYzVm0gHiAUFVX3lxTFBhYUY0bEkzWXp5dVU4bUdPbTdFNE1vT3dQekU3UldIV0dHTUhkb1hVRVpuWGJDdUl4SlY2MlppbF9qSHdueDBEVVY0NzdzbUNNbElDM29WVDdEZ2ZOZkQzdEpCRWs0UGhwWTRDUGZFRl9CaU9CY2VZT1lIaVE4Z1BHLXpvbFM4Mms3R0lNNEpkZW1mSHo3aWZ6VGROMTVKZ3dVM1MwODdDSmhxSVV0bVA3YnVVQkVYZ0t5MXFwNENSX3dFbURmemVzLXRJb3ZzV1hsRWd0czVjcWdqNkFJVnhUdWc?oc=5",
+      "publisher": "ETV Bharat",
+      "published": "Wed, 14 Oct 2026 14:57:02 GMT",
+      "discovered": "2026-10-18",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
