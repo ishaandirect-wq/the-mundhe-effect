@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-18T08:09:30.352620+00:00",
+  "last_checked": "2026-10-19T09:02:45.151212+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -389,6 +389,26 @@
       "publisher": "ETV Bharat",
       "published": "Wed, 14 Oct 2026 14:57:02 GMT",
       "discovered": "2026-10-18",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "7345c5e74f2c0dfca35e",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSnV0N2kxVDBPLWpZblAxNkxZcW5rMlRhc3ZpdWxlREFMOUF2SlRCWUVIckdkM194UFg2THVBYzQxY0M3dVhKLXBKUVpzeGYxMUQxSGNUVi04bmFxWVkxWTRUTjRsLXpCOUxNSTZySkJRNE0wVG94alAtc2JCWDJoSWNkMjJfU3VtWDQ5SW5ic0lYV0I4YUlfaF9WbWc2VEd2R094YVpjX3JOZ2JteUNkUVE2NnhmaUh1QWtPREdXQWcyeVdJblMzUUcwaU51SVdXcXp1RkxUY2PSAd4BQVVfeXFMTm11LXZpbjNKZXRmQ0M5UWR3bmdDelprdnkwOFFfdjJmM1N2NUwzb1FPN2RxcU5QMGlUUGstQmhsNk8zbEdBU2dQODY4QUVRMFVUMmhFRFljWU5FZURucVcwbVgzNUhTR254N3lGYjFXeGl3aHJiY255U2h0VHJoYk94a21wV3F3WmhNUUdiaktKZEg3ZWlYU1RrUmhVV3JiTDJTeFI3YVJuaGFnVk9pOElWTmQ0TjlVcjYtRzRieDNTSlpDbHl2MUU5bVlPcElQSTdSdXVDZVFJNUlYRzhB?oc=5",
+      "publisher": "News18",
+      "published": "Mon, 19 Oct 2026 02:54:00 GMT",
+      "discovered": "2026-10-19",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "320626357b4f130dc06d",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRTg3ZVVXYndEY2pUQU9obG9ESVc4aWtyMlk0RWJQOFpaaTR0eGw3N1M5OTNlZWd3VmZBZkVjenpkZ0prZ1BHQkxwSDJNVWtpSXhyYVN3QldhVG5xb1FkdGVfNjQ1cjFPelkzb3A1N2d2QldHbnR2MVVfanZDdm4zY015VlJjSmRfcENjNE1YaURZRVRPR3hxN0tQbDhCVkRTRnNlYmVVMjhwS2dWeXdOXzc2Wm1pYjZEcWFBb1FwY0hWRHQwcEFITFUtajk2MVVHY3J5LUxiZ9IB3AFBVV95cUxOd0ozQlZrcm4xTEdHZGdDcXI3b1pIMjJ6OHh4OG1Ga2dRMjc1ckZSeW5WUXI3eU1CV3lRSEMxS2RPeGlqWHJTUDhQUDR1eFlia3d3cmhJZjBzX3J1Q0RCakszaTBGOFhKaVRDckpfVzcyYzlTUjlieHgzQWNrcGJhTG1EVkFmM0ktck1QMWphT0FMTVBJY2JtNUNaTE1SUXUxMkx5OERxbko0THJfeWJyRGJDbjYzSnRudkprSXplYzVhZEhXT3owQ3NMc1h6RlMtVDBKYVN2TFd4WE80?oc=5",
+      "publisher": "Free Press Journal",
+      "published": "Tue, 13 Oct 2026 15:39:15 GMT",
+      "discovered": "2026-10-19",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
