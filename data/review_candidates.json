@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-21T08:41:41.982242+00:00",
+  "last_checked": "2026-10-22T08:43:54.291823+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -419,6 +419,16 @@
       "publisher": "Free Press Journal",
       "published": "Mon, 19 Oct 2026 08:22:53 GMT",
       "discovered": "2026-10-20",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "6b98cac9527cafed811e",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTG9pakhtTHJ2OVNRbzFxaGF2a01yRjA4Qk4tRVJGYmFtYU82RHFnOHBibVNKUno3U1hwUHJTbUFFVU5MclNuSGFySkg4RWVhQjVCSUdoTnU1LUVubXk2b2hRbDdTOWZxdzlFRGdIRjRiM3dLeEkyUFNuNTVMNGxYQVd5cURydFNTSUxXeTlwYk1iVjVzTWx4U19uSUEtSTJPem1iaHpBT1hCN1kwMWQ2bmhNenI1anctRUFtWXg3TXF3SzlFYTh6aTF4a3A3d3I3dm9kZGhNZ1RHVHNjTkxlRHB1Y09PdEdLSHJkZzFqM3l1NGvSAfgBQVVfeXFMTlc0TEtiaV82OFF1Wm1aUk5Uc1Q1LVhqQ2Q3N1JfQ3RzRzVCSlA5LV9wS0lJTkxmVlVLLWtoSEpUVWJvMi12S3A2QUVCQU9ITnFqNWtNOVFMOTh3TlQ2YUl0MzVERy02MXhPSmpBUXJ1OXhEOUtzdnVYWWN2blhCWW9DR3ZxTTlBbGREcm52bE9oX0dfQVZlYVFOYWctbWpTbUp5ei1rY2J2NkluNk5QZHZzcmNldVdIRXZwWnduVTJWU095bF93akh3WWJsVWVjWGt4YnpGTjMyR2xJQVpLODI4RkotREw3ZVpnbGd5NExTcGhjaVExZEw?oc=5",
+      "publisher": "Free Press Journal",
+      "published": "Fri, 16 Oct 2026 18:40:44 GMT",
+      "discovered": "2026-10-22",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
