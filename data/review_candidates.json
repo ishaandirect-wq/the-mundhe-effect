@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-22T08:43:54.291823+00:00",
+  "last_checked": "2026-10-24T08:14:46.262721+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -429,6 +429,36 @@
       "publisher": "Free Press Journal",
       "published": "Fri, 16 Oct 2026 18:40:44 GMT",
       "discovered": "2026-10-22",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "1bf2ba57d8dc9e674bf5",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTndIVnF5MDNjWTRfaUlMM2lKQnQ4bnJoVFZZR3BlQmczU1gyTzhMeUxEMnNnTDI0YWlQaGMxYnlpTWt3OTd3OUJyS1pUaE44SzQ2VlJ4TFRPMWNMRE5PNk4taUVGbUxvcDV2RUhRQ1lKQmdqRDJUMXMxcGc2Vzl1Rm4wdGsyZ1hzVW1JaDVISVo4Y3NWTUlTLUNsNGl6ZVBlNUtJOTA2VFBQV0NNbmJud3BpcVNkMmJwOHRLRlA4LTVnX0IzNzZwNkhHZTQza2c1LWkzT2VDdWlQRTRWdU5iSUNuQlpLVFdiVUNOa2Nyb1V5ZlZLMHJV0gH8AUFVX3lxTFBUVWZJQ2c0VVFKQTJkQkNnSzBDczhoQ2UwNy1IV3cxc2Rrc3lMRzhzaVpYb1E5SHhKc3IzdnZzaWZRVE10RUluLVlTUmlhMlhtal92ZXVGa0pHeXcyRnhBakhMM1lQY0s3MDhTZU9fanV0cFotTk9WMGxzM3dsWWlQb2lhZWo2Z3N0SFIzWTBfVzY4VnBINWdLbTEzYlNDTU1VNUxsRnJfSkVRek9rTmZ5T21qdGVlYnV2Z25MVWJJZFFla21Gc2l5QTFqT24wOWtpN0ZDMHZObzR2N2Q4UHlJQUlFYVVoQ3lYYXNiVnRienlqOEVZM3kyb1l5dg?oc=5",
+      "publisher": "India Today",
+      "published": "Thu, 22 Oct 2026 15:47:20 GMT",
+      "discovered": "2026-10-24",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "36331a1272ce249d696d",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSC04WEh0eEMtRHpQa01KOUdvQjcycXFyREhyLTc0S1lQRy1RSm5mSk54V3dISS1IQTg0TnV0dEZfMGk0OXN6UW11VVBOOEtXNU14MzVSQm84ZHgxS1hhajc5Z2M1WFJhOUN2aWwwV01NblF3YzJSTWk2S01vSXNIU2hqZS1TMmpSMXo2b3lxSXl5LUU?oc=5",
+      "publisher": "Urban Acres",
+      "published": "Thu, 22 Oct 2026 21:45:57 GMT",
+      "discovered": "2026-10-24",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "5bdbaa14303bbb020ecf",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVFVmSUNnNFVRSkEyZEJDZ0swQ3M4aENlMDctSFd3MXNka3N5TEc4c2laWG9ROUh4SnNyM3Z2c2lmUVRNdEVJbi1ZU1JpYTJYbWpfdmV1RmtKR3l3MkZ4QWpITDNZUGNLNzA4U2VPX2p1dHBaLU5PVjBsczN3bFlpUG9pYWVqNmdzdEhSM1kwX1c2OFZwSDVnS20xM2JTQ01NVTVMbEZyX0pFUXpPa05meU9tanRlZWJ1dmduTFViSWRRZWttRnNpeUExak9uMDlraTdGQzB2Tm80djdkOFB5SUFJRWFVaEN5WGFzYlZ0Ynp5ajhFWTN5Mm9ZeXbSAfwBQVVfeXFMUFRVZklDZzRVUUpBMmRCQ2dLMENzOGhDZTA3LUhXdzFzZGtzeUxHOHNpWlhvUTlIeEpzcjN2dnNpZlFUTXRFSW4tWVNSaWEyWG1qX3ZldUZrSkd5dzJGeEFqSEwzWVBjSzcwOFNlT19qdXRwWi1OT1YwbHMzd2xZaVBvaWFlajZnc3RIUjNZMF9XNjhWcEg1Z0ttMTNiU0NNTVU1TGxGcl9KRVF6T2tOZnlPbWp0ZWVidXZnbkxVYklkUWVrbUZzaXlBMWpPbjA5a2k3RkMwdk5vNHY3ZDhQeUlBSUVhVWhDeVhhc2JWdGJ6eWo4RVkzeTJvWXl2?oc=5",
+      "publisher": "India Today",
+      "published": "Thu, 22 Oct 2026 15:47:20 GMT",
+      "discovered": "2026-10-24",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
