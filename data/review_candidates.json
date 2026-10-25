@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-24T08:14:46.262721+00:00",
+  "last_checked": "2026-10-25T08:32:29.947190+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -459,6 +459,16 @@
       "publisher": "India Today",
       "published": "Thu, 22 Oct 2026 15:47:20 GMT",
       "discovered": "2026-10-24",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "771b0ad4880f6e9814d0",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ0ZBZzdTTmh1R2VVYjMzM2cxQXItaVlJOVRaMmRuZ2tKZEwtTkVETHdoUjFETlRxc0hBX3duUHR4eGU5ODFhNkliai1sV1BuYmZOa2V3NGU0NTQyV3ZHS3RPQlE3dEhYaXZNNURKVno2VTFsVk8xWXdxZ2d0M1NCU20yd0ZRLXBRS2pYMEpSWWNjV1Y1dVZNd0l1MFZ3bUxZaVpSRVBtcEZVeklhUGszU19HOHl5VzlzejVkMmVzUmJGSEp5ZzkwT2M3V25xZEHSAdQBQVVfeXFMTldlRDB5RzR1UVktUzdCM2lneG1ETUF2aUNhNzhtZWhOMm1zWGxEZ1FNZE1WVm1BREZ6VGJraWJ2SnA2a3FZRE9ETDEtRF9pemY0Q2RSLVJSTkJJU2Z1U2dzcHpHcHI3OWg5Sk5HQ1YwLUFvX1V5RGZSTHhmMkM3d0hGa3lpZVBEQkU3TnY3NUlDVVhGWkM5dVp3b0VDQXhQNTlDUUxfX0lLSXVocmVrLWNOTENMREtGVTJGMEk1TFk3cjFiUDhnV3o4aWhCUFl4cmh2amM?oc=5",
+      "publisher": "News18",
+      "published": "Sat, 24 Oct 2026 09:22:16 GMT",
+      "discovered": "2026-10-25",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
