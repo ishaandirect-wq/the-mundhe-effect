@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-27T09:08:41.020136+00:00",
+  "last_checked": "2026-10-28T09:49:12.615429+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -469,6 +469,26 @@
       "publisher": "News18",
       "published": "Sat, 24 Oct 2026 09:22:16 GMT",
       "discovered": "2026-10-25",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "43fdbe6196f6e42a953e",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0VNZVlRdnFueHczT2NfQXlOTUwwbFVNamtBZ3F4YjZ6b3Y2bUhqblJmdHNLX0M5SWxZQ2gwWC1Qb0ZZclNHaks0ckN6MFc2LTFaOXN5bEptUkZ6WjV0UTd3M291UXpLNDRkWG0xc3QtZzVjRW84cXVJZGRRWVQ0QlRZbFRYYzc3ZW91Yk92OUg2MEZfcG1xOG5ESXctRE5HcW9NMW8xbHREbWFBclpN0gGvAUFVX3lxTE5LRU1lWVF2cW54dzNPY19BeU5NTDBsVU1qa0FncXhiNnpvdjZtSGpuUmZ0c0tfQzlJbFlDaDBYLVBvRllyU0dqSzRyQ3owVzYtMVo5c3lsSm1SRnpaNXRRN3czb3VReks0NGRYbTFzdC1nNWNFbzhxdUlkZFFZVDRCVFlsVFhjNzdlb3ViT3Y5SDYwRl9wbXE4bkRJdy1ETkdxb00xbzFsdERtYUFyWk0?oc=5",
+      "publisher": "Lokmat Times",
+      "published": "Tue, 27 Oct 2026 18:58:30 GMT",
+      "discovered": "2026-10-28",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "20863b71ee4d6982cad1",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMGlLOHVMXzhlc2t4QTI0SzExdjZmT01TTFFsLTVOQlVUTFVnLXdkWEtYdVVfU3FrZXp5NDAxSE12aGxqeU9WM0x2S18ybGlBT2dkTGpoVnNyRE1YS01naGtlRVpPZXZ6Nk9hT2hna1J2ZDBZSU84eXVya2ZPM24yVHFCeWdMWFhBUThncEU5Q3RaSFhUbmgtNG9jQlJDci1zenFFbzluZmFnd9IBrwFBVV95cUxOS0VNZVlRdnFueHczT2NfQXlOTUwwbFVNamtBZ3F4YjZ6b3Y2bUhqblJmdHNLX0M5SWxZQ2gwWC1Qb0ZZclNHaks0ckN6MFc2LTFaOXN5bEptUkZ6WjV0UTd3M291UXpLNDRkWG0xc3QtZzVjRW84cXVJZGRRWVQ0QlRZbFRYYzc3ZW91Yk92OUg2MEZfcG1xOG5ESXctRE5HcW9NMW8xbHREbWFBclpN?oc=5",
+      "publisher": "Lokmat Times",
+      "published": "Tue, 27 Oct 2026 18:56:15 GMT",
+      "discovered": "2026-10-28",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
