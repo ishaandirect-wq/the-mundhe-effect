@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-28T09:49:12.615429+00:00",
+  "last_checked": "2026-10-29T10:10:03.812791+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -489,6 +489,16 @@
       "publisher": "Lokmat Times",
       "published": "Tue, 27 Oct 2026 18:56:15 GMT",
       "discovered": "2026-10-28",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "72a313bfddd2f9ab5aaf",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUktbXdVc1dsLWRHTjJBSVhsLTB0NF9MS2FFaFZkc2otNmtQVU1OSkppZmtmT1QyYzd6UDRoaVJmOVB5ZFlzU3JTQl8zdkJwT1JsemJfSVJmMFpVUHlZNHF6LWhZcWJ2UDZzUG1ienZhdGhCSnUteFpMYUYwdnpDOHNpdXI0Um0zV3hpdW9zRHREMkNJSElEUmFJTER5UURFZ3NhVFlQVWs1Si1FNWptVUtKdjRvLTN3Z3o3Z254ZkViRHPSAcgBQVVfeXFMUFFaU2ljOTJFTVhvMVYzeFVlWmZ2ZFFxT2dTd1NINlJkSzNlWGJUTTItS05Ec0NpT3dycFQ2eUJkUDhOWEhDREdESTRYNS1jd2d2TlRfR3BsbDY3NFAzV1dBMGs3YlRhYkkwUkhnemVtemNCSXV4c1FVaUxkUmROTjVqQlo1MFQxZlJtcm9DSVloR3cyVUZSbnh4M1cxajJyUlIxSS1aNnM4ZWpwOWFrU19JV0VPZ2lOMGhBQUJkejM1NjRKdmRWQ1g?oc=5",
+      "publisher": "The Times of India",
+      "published": "Thu, 22 Oct 2026 18:31:00 GMT",
+      "discovered": "2026-10-29",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
