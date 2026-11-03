@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-02T11:23:16.350113+00:00",
+  "last_checked": "2026-11-03T11:00:09.967760+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -499,6 +499,36 @@
       "publisher": "The Times of India",
       "published": "Thu, 22 Oct 2026 18:31:00 GMT",
       "discovered": "2026-10-29",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "26a13a5f4ac08bed0846",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNXzFHTzhwTHZtVGhYQWJMdWloTENZS1phdEhfbFhPME1ncFR2TjVad2t1SHNPZ1g5d0p5RlJTeE5uaDhKUVlvUzIxTmxkXzkzT1pIajEwOERZbkZob2ZrQkJTNVJnY2t5eVpQbmZsN1ZwSk5jVDczTkVubnBwWTdNdEZvRdIBkAFBVV95cUxQVm9RYjJkS29kc1B0Ym82dDhpd1VtblBKYTExVEU5NEtVYXJFbVZ3X0dsZkRlYTRtU3B4MGp5VVZjVm1YS1pmODFsd0thR2VJakw3QVJxenJUaEx5OE1Cc1VMLXhCYV9Uc0YtS25mcEgyOXZTZEI5V1dJWklHazV6WjUtNUkxSGtMZl8ycXdjX2k?oc=5",
+      "publisher": "NewsGram",
+      "published": "Tue, 03 Nov 2026 07:09:20 GMT",
+      "discovered": "2026-11-03",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "93447dfeaa451503440b",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUGk3Y3gzdXZGZXRTS2VzaVdpa21rNTdvSEpzejhNX19lUHk3c0dTMHFEc2JtTkxpS2F4LWxaN1dtM2E1QkVtaHVuODFxQjYxWHgzRTFneFNTM1kta0FKcFdwLVFMMC1idUxSYzdzc2JqcWdYbU9IZGU4bk9nNDUzWDZaelA2SUJtTnhaRHFrWHlUMXlVYTNFcjFYYmZHaFdMUmJuWjFCV2NkMG9VaGFtaGpxNWJJVEFHQmU2U0ZqblhJUjExem1ocC1KN0RJMHFnYWttSmE1a2NtcGRTMFlvdWVJNEt2ZVFUbFk2dFlsRDTSAfABQVVfeXFMTVBpN2N4M3V2RmV0U0tlc2lXaWttazU3b0hKc3o4TV9fZVB5N3NHUzBxRHNibU5MaUtheC1sWjdXbTNhNUJFbWh1bjgxcUI2MVh4M0UxZ3hTUzNZLWtBSnBXcC1RTDAtYnVMUmM3c3NianFnWG1PSGRlOG5PZzQ1M1g2WnpQNklCbU54WkRxa1h5VDF5VWEzRXIxWGJmR2hXTFJibloxQldjZDBvVWhhbWhqcTViSVRBR0JlNlNGam5YSVIxMXptaHAtSjdESTBxZ2FrbUphNWtjbXBkUzBZb3VlSTRLdmVRVGxZNnRZbEQ0?oc=5",
+      "publisher": "WION",
+      "published": "Tue, 03 Nov 2026 04:49:00 GMT",
+      "discovered": "2026-11-03",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "24c5aa8fa1992711d585",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNXzhDNUNKb01pUFFPZmFyeGxkZVc3ejVBZThGV3BEN25FeVEzYURpaVpMUFdpbnVzRTJwWTVaSlVXdDJkRXRvV1RYUWdRX0FjaEtpbURoMnJIc0VZVlJXZGVOM05TQWtrb0xLY1hYR0Y3UHJHdmNTLXRaMGJjNkhBVHBlSDhzNWtXbUQtclhtRmFhSzdJNTRn?oc=5",
+      "publisher": "News Karnataka",
+      "published": "Tue, 03 Nov 2026 06:50:34 GMT",
+      "discovered": "2026-11-03",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
