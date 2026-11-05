@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-04T11:06:39.892603+00:00",
+  "last_checked": "2026-11-05T11:07:27.350599+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -549,6 +549,16 @@
       "publisher": "theopenpress.in",
       "published": "Tue, 03 Nov 2026 16:12:48 GMT",
       "discovered": "2026-11-04",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "9fde1fb6bffa8253a8c8",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNndSWE5VbWdoMVdZN0lWTGM5TnhYUXJrdHBwVFFpZ18tVnJpWURqeEZfWVYybnJuWk4yelN2SWFDYjJCVUQ4QzJ0NGVBVWtFR3k4Z0NQZlFfWlEyZlFFajUwVnh4dlBZRWhlY09QMlBjWjAzN0pNc2ttX3YwOFZRY2ozWUdjNUM3VWVEY3dtUFdiMlI1TktUR051TV9TbFY1Ql9MSkU4S3JpV0ZjTzBWRDVhbkZ0YkdKVGszV2VVS2ZHQlE5eGw3N0NOZGlHd9IB0wFBVV95cUxOSkhNdUJHUlJ2bk1EUEk4YjBfMEJoRDZobXVBVHFKcVo4dHkxdW94WklJMnRIZ3d6ZExBY2VhTnMtTHhlQnNwM3pYanR0QXRuaG9VUll4alpFdjhGTTl4dHJtaE5pTUJDVlVxSHdSTDBDUHh4c09vS1FQMHVOelk1UFhmS2E1cEl6bFRBWnlyOFJWaDVOSDVMT2trdHo2WmhYS2poWGVBQUJ0NGZ1Rkh3c1lmZUNYb1BTcmVSS3BMV0RRRkp5cWhsLVF1RXFydWFzaXZJ?oc=5",
+      "publisher": "The Times of India",
+      "published": "Wed, 04 Nov 2026 17:55:00 GMT",
+      "discovered": "2026-11-05",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
