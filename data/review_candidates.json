@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-05T11:07:27.350599+00:00",
+  "last_checked": "2026-11-06T11:04:33.663089+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -559,6 +559,16 @@
       "publisher": "The Times of India",
       "published": "Wed, 04 Nov 2026 17:55:00 GMT",
       "discovered": "2026-11-05",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "332abe9f994b01d617bf",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUDk2aHIwTXBSVnVKSHpBT0lzMTRTV2FMbVlTN25oaWdpNTlvYW5nS1h5VnQ0aDVXaVVDY1JEcEY0X2pvZFdQTkhybnoxcml2WG0yTkY3cXVvVExPdUV0Q0FwZnZnSkxWYWFNUU9Cb0l0dW5NZXd5WFF6VUlMU0hMU0NnSTZwcm5pT1NMcEthYUtXNkZwbV93TXVlOFNxblNIYWRTY3JjR2NtUERicERZUDNGOVh0QThKdWNpRW41eXYxS1F1Y3F4aVNRd2Vtc2VSY3JXN2R1MllwM1RvbEZvVlpyOWdRdw?oc=5",
+      "publisher": "Business Upturn",
+      "published": "Thu, 05 Nov 2026 15:27:38 GMT",
+      "discovered": "2026-11-06",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
