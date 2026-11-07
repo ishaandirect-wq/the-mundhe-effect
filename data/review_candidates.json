@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-06T11:04:33.663089+00:00",
+  "last_checked": "2026-11-07T10:23:57.820025+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -569,6 +569,56 @@
       "publisher": "Business Upturn",
       "published": "Thu, 05 Nov 2026 15:27:38 GMT",
       "discovered": "2026-11-06",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "83dfeb426367c41f7598",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNVUpzdVA0ZTVFN2xGcDNDVHNnaFZ5a003ajYtZkVFUVZaWGY2X2pNVDBac1UtcmxGZENyY2FBTEJteWhsOFpCRkYwSjlUajVNX1FTZ2tCRUlrNFM1alBvSzBOS3BLbFBJSm05NTFqSGVKLUdGdF8tME0yOElxQW9SVld6a3lSamVla19tdzR2UHpaSVJURF9YTmg3QS1qdGZpR1JDZjhvSE80LTlld1RHRE90c0ZIYmtDYkNqcjBWLWFUZ0JsOTZWbm5pRUtnVW1TRWZVN05RSHRkVWk5QnBydmxWQ1B3b1JISjJHSXRQNE12cUw1Y0s0ZkZFS1VoRmtMNmFqSURuamNZbVpyTVRoaTMxZ3l3bnA2U3BvVnR3MUXSAaACQVVfeXFMTVVKc3VQNGU1RTdsRnAzQ1RzZ2hWeWtNN2o2LWZFRVFWWlhmNl9qTVQwWnNVLXJsRmRDcmNhQUxCbXlobDhaQkZGMEo5VGo1TV9RU2drQkVJazRTNWpQb0swTktwS2xQSUptOTUxakhlSi1HRnRfLTBNMjhJcUFvUlZXemt5UmplZWtfbXc0dlB6WklSVERfWE5oN0EtanRmaUdSQ2Y4b0hPNC05ZXdUR0RPdHNGSGJrQ2JDanIwVi1hVGdCbDk2Vm5uaUVLZ1VtU0VmVTdOUUh0ZFVpOUJwcnZsVkNQd29SSEoyR0l0UDRNdnFMNWNLNGZGRUtVaEZrTDZhaklEbmpjWW1ack1UaGkzMWd5d25wNlNwb1Z0dzFF?oc=5",
+      "publisher": "The Times of India",
+      "published": "Fri, 06 Nov 2026 15:33:00 GMT",
+      "discovered": "2026-11-07",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "1fbab8756d5b093d0e0f",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY19HemZDYUVTeW50WEpOcWl2eGRCMFhvSjkyNFE4Wng0TVU2aXdWcllsa2xzREhDdDNmYVZhOVh5UXE4c1VaRjktbDgwczFEb1lPbmtzdERwaUNjcDhtSGo5OFo1NFlRdHNUUXdMaGxfdG1vYVcycFFyaW5VMjlTNUM0LWgzOU8waHpKRHczYnREcU1oWHp2cjloR29JSVZnRWIxRW1nMmp2YWpsWXfSAa4BQVVfeXFMT2NfR3pmQ2FFU3ludFhKTnFpdnhkQjBYb0o5MjRROFp4NE1VNml3VnJZbGtsc0RIQ3QzZmFWYTlYeVFxOHNVWkY5LWw4MHMxRG9ZT25rc3REcGlDY3A4bUhqOThaNTRZUXRzVFF3TGhsX3Rtb2FXMnBRcmluVTI5UzVDNC1oMzlPMGh6SkR3M2J0RHFNaFh6dnI5aEdvSUlWZ0ViMUVtZzJqdmFqbFl3?oc=5",
+      "publisher": "Rediff MoneyWiz",
+      "published": "Fri, 06 Nov 2026 13:51:04 GMT",
+      "discovered": "2026-11-07",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "e16649a283c84ddb4916",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0hGSGU2RjZ3SlhpVV9PaUNORDFmTzNHcjlRcWZZemczcUJoV3pjTWZJcHRWOHVzOExqLWlKc2lWYVFpZEpDSjd2azJQalRUOVdBdHdncnJPMGE5R3dEQ1p4UWZXQVRoYmI1Y1JWalpiYl9Sb3NINzc4MHhma2dCYk1xTHNLMDA0VUNQZnFB?oc=5",
+      "publisher": "Urban Acres",
+      "published": "Sat, 07 Nov 2026 04:01:20 GMT",
+      "discovered": "2026-11-07",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "63b35914cc3c1bc3c6bd",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRTRfb2JiRmlRMGFQcHFRSUVjZ3JQQnM4RmUwX1NZLXhYem53a0lTOUVCT01WaU5EdzJsUVdNdUthMUEtNTI0MlVFU0tPeTd5V01XQmRTLW1lVGozVXFWQVBDeVlEd1hVVFNrdEl5cUk4WTRxcmFDMzdGSUZVVGhkblNtZWtDSGkyZHc1b0tKeUFON05RYXVWUEJfUTViRVRhci1GMXc2Rjk0ZkhYTk1TbVlFNVprZ1NtQXVqNU9jRF9CLW51SUFmb282Z9IBywFBVV95cUxQRTRfb2JiRmlRMGFQcHFRSUVjZ3JQQnM4RmUwX1NZLXhYem53a0lTOUVCT01WaU5EdzJsUVdNdUthMUEtNTI0MlVFU0tPeTd5V01XQmRTLW1lVGozVXFWQVBDeVlEd1hVVFNrdEl5cUk4WTRxcmFDMzdGSUZVVGhkblNtZWtDSGkyZHc1b0tKeUFON05RYXVWUEJfUTViRVRhci1GMXc2Rjk0ZkhYTk1TbVlFNVprZ1NtQXVqNU9jRF9CLW51SUFmb282Zw?oc=5",
+      "publisher": "The Times of India",
+      "published": "Fri, 06 Nov 2026 17:27:00 GMT",
+      "discovered": "2026-11-07",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "c129654bc9eccf0b062d",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT3lTRlRfTDdvQndOWFRYSFN2TWtXclJibkNNa1Q2Y2RZT2RodHlkWHExdUJkNGhvc0xvZ2J4czNCTlZKYjFxcEhjWm9GNS1rY285b2N0THY1UnpUQWI4MktVOVk5c2QtRGR3eERnTlFvdUg5SkEtbE9vTE94N1VodHNQaXduTHJFQThwZzZwTWxVaEdvZVJrdFViRFI3eEZkbG1faVBFV1J2Nl9XWWZvSU40TWM1cHFjeUtwUTNZbFFjTnRXWFFwTjN6TnUtazc5MElNZXRwUWVtZnNFTkHSAeMBQVVfeXFMTllwVTU5VkRndHRHTGUzRW9EYm5fdWdYTXpwYVV1bF9Xc0lWUGF3WnhlWjdjZ2ZFbjF1cl9faHhsMExRVjNLRWhoTVMtTnloR2tmeWJ5eHpheHZXUjI5VmY1OGRRdUNvdTY4a3J0WWh3eWtpeG9BakU0bk1DYUdtMVN3alBMak84XzV6aG04SkppOW5HZGl5TU5za0dGVTBRSW1VSkIxaEFXZ2o3Q0kyQTlGQWJQNXd4czNMc2RQMk5hSG9seXNwTUZJNVVDTHBUZno3am5tR3NnWmRvTkh1dHQ0ZTg?oc=5",
+      "publisher": "Free Press Journal",
+      "published": "Tue, 03 Nov 2026 17:58:14 GMT",
+      "discovered": "2026-11-07",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
