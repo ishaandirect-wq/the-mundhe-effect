@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-10T11:22:20.282864+00:00",
+  "last_checked": "2026-11-11T11:09:08.823235+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -689,6 +689,26 @@
       "publisher": "Goodreturns",
       "published": "Sat, 07 Nov 2026 11:22:40 GMT",
       "discovered": "2026-11-08",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "87094723940559c51794",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNX3E4SjhlaUROcE9USllsU1JoOVRzNG9WMmNXUW85Sy03Z21QYTM5bG15OTNHWmhzQVp3X19VQWp6cHJTbXYwMDlYcTUxcTZjTTVWb3Q5aFd3c3dNRGtLeU5oZFk1V3laelNTWE8wczFTS3VWQUlGVG1tTDAzNThKb0cxV3hJdDdiZDZybXZXTUQ0bzRCX2dBZWQyRzZ0bzRFNWN2NUIxZWJrVXhRMXBRTnVCRnBnN09ncS1EOC02UTNIZi1iclNrUmdoMNIB0AFBVV95cUxPakdFRmE5N1hKZVNrd1ZDSVlCa0U3Q0RlU3RGcXktWm1GSkFTdmIzVlQyQ3VydGJkQjE5RkF3RFJSZ1BXVEpvSl9ndjgzR2wzOF9KTTlieF9EQlNqSXpVdFF5UmxnSTN0dmVjMHZlbkVsM1dfQ1ctcGY5cFV5UlBabVN2UXpBODM0cFJHRGkxWE9ESDgyR19aaEQ4WVlESU9rTWE4d3ZZb2tMQXhwdmFYV1ZrTGNjQ3lUUDZMb0x4NWtNQmdPdmV5SlVPWk1QaW5i?oc=5",
+      "publisher": "WION",
+      "published": "Wed, 11 Nov 2026 09:47:00 GMT",
+      "discovered": "2026-11-11",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "8e7b6ff1194541474a5a",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQlRDcVBUZnlmRjNrdkxjREQyUDBZYS04QkVfU0gxVEJpZjVRTkVTQ193a2JyR2tSWUdOVUZpaXNMamoyWm10WFpVdzJsTEVFYXNnY1pVYURIYURKcEJfM2ZsdGk0UERrNGY3YnlhSGtZdXRtdkt4VTN4VG9ydklGbVRyekFjNFo0QU5iRnVzWjhsOEpnVHRaN3FEbkVXaFVfLVRFZWxGRE9ZV1M2Sk5oLW4wLW5JSjZLYl9EZ1lDZWx3blp6VUw2dmVnRVRKTjh0blk5YnQ1a2tRQVkzNXZxUnFsMjhJdGvSAecBQVVfeXFMT0JUQ3FQVGZ5ZkYza3ZMY0REMlAwWWEtOEJFX1NIMVRCaWY1UU5FU0Nfd2tickdrUllHTlVGaWlzTGpqMlptdFhaVXcybExFRWFzZ2NaVWFESGFESnBCXzNmbHRpNFBEazRmN2J5YUhrWXV0bXZLeFUzeFRvcnZJRm1UcnpBYzRaNEFOYkZ1c1o4bDhKZ1R0WjdxRG5FV2hVXy1URWVsRkRPWVdTNkpOaC1uMC1uSUo2S2JfRGdZQ2Vsd25aelVMNnZlZ0VUSk44dG5ZOWJ0NWtrUUFZMzV2cVJxbDI4SXRr?oc=5",
+      "publisher": "Slurrp",
+      "published": "Tue, 10 Nov 2026 13:49:33 GMT",
+      "discovered": "2026-11-11",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
