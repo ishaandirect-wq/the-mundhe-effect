@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-11T11:09:08.823235+00:00",
+  "last_checked": "2026-11-12T11:27:37.601767+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -709,6 +709,26 @@
       "publisher": "Slurrp",
       "published": "Tue, 10 Nov 2026 13:49:33 GMT",
       "discovered": "2026-11-11",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "742a30b85b40591df076",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUzVOWU95eXV5cUVTbVJRUFdLZldjMDN6T0ZoSEJhZ190c1Z5ZExqRmtDd3BpODBtUjk3OFpmajJrWDhBN3pNLW1HSFJNZjdvMjRyOWl5YWhOa3ZNTHZiRXFjX0FWd1RKSUFPZG5FdXJFUVVsUnc1S0lHTUhGeWR3WElDYUR6aTBSN2V4dlFJU0UzWm1SYjFDTXdtLXlFMTFqWjVpSnNPQm90WWJhOEk2ZFhZMUdYZVpBRVIwTjF2QUlBSUd1NXhJMmpIcmtENTlUaVI2cVVDRksxeFQ3UENvRFV1bTBiQWNOXzdqZktR0gHzAUFVX3lxTFB3X2txRkE2MjAzdFV0em00cGxnS2ljUXo2bmtxZVR2UndMNVVrYlJqSXktVmlaWHNxQ3ZLcEN0U21yUXdyZmt6S1RoRzdKb0N1ejVZTTQwa2tDSGFKajFNWndrLUhFSzJWc2wwN2NWWGZmeFNWU0dPWnVNazVxQk1XcW1OS0FRUS10Z3NHNDFQOURHQTBMMDFRYjYtUWlKQjlyWTNGUnF0VmZxWnFlMmZCRm1rM1AzWWhwUnhIaENZa0d6cHl4ZnE5YVhYZUU3b0pIWTB5dkNtVURMSFdoNkdYenNzS3JzQ0p6clpxU3hhQUF4cw?oc=5",
+      "publisher": "Free Press Journal",
+      "published": "Fri, 06 Nov 2026 15:49:45 GMT",
+      "discovered": "2026-11-12",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "03603374e6a30f1a2e07",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPakdFRmE5N1hKZVNrd1ZDSVlCa0U3Q0RlU3RGcXktWm1GSkFTdmIzVlQyQ3VydGJkQjE5RkF3RFJSZ1BXVEpvSl9ndjgzR2wzOF9KTTlieF9EQlNqSXpVdFF5UmxnSTN0dmVjMHZlbkVsM1dfQ1ctcGY5cFV5UlBabVN2UXpBODM0cFJHRGkxWE9ESDgyR19aaEQ4WVlESU9rTWE4d3ZZb2tMQXhwdmFYV1ZrTGNjQ3lUUDZMb0x4NWtNQmdPdmV5SlVPWk1QaW5i0gHQAUFVX3lxTE9qR0VGYTk3WEplU2t3VkNJWUJrRTdDRGVTdEZxeS1abUZKQVN2YjNWVDJDdXJ0YmRCMTlGQXdEUlJnUFdUSm9KX2d2ODNHbDM4X0pNOWJ4X0RCU2pJelV0UXlSbGdJM3R2ZWMwdmVuRWwzV19DVy1wZjlwVXlSUFptU3ZRekE4MzRwUkdEaTFYT0RIODJHX1poRDhZWURJT2tNYTh3dllva0xBeHB2YVhXVmtMY2NDeVRQNkxvTHg1a01CZ092ZXlKVU9aTVBpbmI?oc=5",
+      "publisher": "WION",
+      "published": "Wed, 11 Nov 2026 09:47:00 GMT",
+      "discovered": "2026-11-12",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
