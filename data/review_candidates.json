@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-13T11:11:00.750324+00:00",
+  "last_checked": "2026-11-14T10:37:51.048446+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -729,6 +729,26 @@
       "publisher": "WION",
       "published": "Wed, 11 Nov 2026 09:47:00 GMT",
       "discovered": "2026-11-12",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "5f6f3c9f34ee206613bf",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZUJXakR2QWtEUlZFRkJWNzZkUmRJUEpSdXF1VkN0a1d6bHNqZkRlSzRhMlRDaHNES0hKQXVJR09YM250VTdVc2RkWGtmNkZKc3h4NmZIUExpWUxCY3JzVjNHcTEzZ2toaHBtSHlOQ2FTOUZMN0dqWGlfUWtLdlphYW1CTTVtLWxjVHctT3Nib0llSVMwcHJkUUhsek5aQ292SGRlV3dKWlpYTHpTU2ZyNjhaSktVUGNWRXN1V0FWV2trbV9INUpuRW80dWJDZm55ZmlvRXllSFd1OGvSAeABQVVfeXFMT2tvLUQ1WXJ4b0c4RzIxZGtfVFh5RDFtTzVmM1FpcDdDVzJpLXZ5VE9XSUFiMVJBTV9XTXFHaDE5NnM4V3BkVzNsUGxiYmN2MjlTYVlpNWIxQUJRTFRmMWJzaWVnZW1FLUxnb003Xy1JT0xINEFndDVLYWlJT2p2RzRCdFoybHhHbWN1M0N4bC1fTVpScGRkQnRIZkpCNENEdE5UeWdoYVd2UVV3b3oxMXZsQ3M3RXVaNEFVMENNWDlUNkxDZDJwYTlPZ3p1ZE1jck4zMnE5R3JZUGVlWWo2U18?oc=5",
+      "publisher": "India Today",
+      "published": "Sat, 14 Nov 2026 06:26:32 GMT",
+      "discovered": "2026-11-14",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "d1e0611ae621968a0c21",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTkJqcHhjWnJyYVVIRWdsLVZLUGpkdXUwdkExWW0wNVItUFJsZXJ5blFENzRiVFhwZXNnMkFHZzFvQi1RTXlqcTVMU245Y3o3WUJfdF9jeGxYRzdYWEM1OXdNZjgzRklOYzdxb0FuV0VHOWFoMXIzRVhRZm9vQUJhb2dGMmVPMVJaYUxra1lUem1ocjNkekFiWjFJeG9vem9tZUlPRWd1OGdrb0xJcWpmamE0X0NQVGVLWml5TmtTeFpfd2NINWREYVJkdnBZR0s2cnE3WnFGeGt6WknSAeABQVVfeXFMTVp0SHhidTh4WklSbUg0RGRHSlJoei1fZFIxWVMwNGJsMVBpRVQ2Q3E1cUhSSDM1SG1iaVJZcUVBajJ2TDRzZ09DeXpCdDUtY0J0TFFFN05ha0R3eFZPYmpWNExVVVU2NkpON3dIM0FFWm5nNUJfeXZGNEZMUFpMeGN2VWg2Sng4ZTJsN2plVjVNUUVfNEJMaWliODc1dEpienVFQlJzX1FNV3k0eEdFLVpKUU5UWjJVcF82ZXZuRS1tV0RJUmd6ZXRsYkhQeWFoWGQzbXNfbVpYZjQwNkl3TTI?oc=5",
+      "publisher": "News18",
+      "published": "Sat, 14 Nov 2026 08:23:46 GMT",
+      "discovered": "2026-11-14",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
