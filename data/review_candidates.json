@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-15T11:09:29.093833+00:00",
+  "last_checked": "2026-11-16T11:39:12.158190+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -789,6 +789,26 @@
       "publisher": "Slurrp",
       "published": "Tue, 10 Nov 2026 20:14:00 GMT",
       "discovered": "2026-11-15",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "0b83661fc4112a4544a4",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOeVh0S0hVQVNiSjUtVWhteEJWZjhZTW1rQkk4N0VDYmdGUm96WDdiQWVvVmdwdmNIckl4ZXB4Zy1NOGw0Zl9rdlVjSU5XNHJFTmY1ZGJoTVJtS3FMTnNIVGw2d3RVblpfcGFZV3k1SmVJMWk1TFlCdWtaZDFfT2NsN0lseGotbFBPWmp6QUdYT2JRUXhNQXpsUkdabjRkaU5OVHA5LURtanNhT2tmMDZvLTJmVFpmNkd4UWFNeDVkMXMtRlBhVWNhbDlwaXZHM0EyZTlqMEVMZUhvSDhLNThXWF9aNTYxUl9OWlN1SXQxTjFqRnNiRTNubnVlRHRBejR5WnNMN2NYN3dMdURvSWNNXzY1ZU9qMkJIVEJj0gGgAkFVX3lxTE5qSm1KSnNPNDZQLTJLQi1EbzhLWE5jVmU2ekZFTE5NLXVETGw3MThFUkxuS2dqc0dleFgyLTZCbVVqQUk2c0NvdTVSMkJ5YUxWVDZ1czMxdzVTeW1GdUxMTWFnaEhldy1TYWxySnA5bmdud3cwM2wweDVFNWx3U3NFQWxLSzRFVGtnXzlBbXVIb2NlZ0RnZGdtaFpnVlFZU2dtdGItclQ3SHRWYjlKWlZTNzVrZVNRblhjbk9NeUVocjVFM0lVRVVCUlNVUlVBNXFLRXNZYndzOGVDTFV0UzZMQmN0MkRaRmlNS2dwRDh5WlBBUUgycHpIcFgxYTJFY2ZoU3B5TkhzMlVsYlFudkRpQktsVnJCdkVtUml1S1FWcg?oc=5",
+      "publisher": "The Times of India",
+      "published": "Fri, 13 Nov 2026 02:55:00 GMT",
+      "discovered": "2026-11-16",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "70ec82194ec187f368e9",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFYxM1VBTDJ4MHNnOHBQMktBUGFweU1rZ3pWc1ZFU3JYaVdlT0s0Rm91bjZyNjdtc2VEb3o5SkZiZU5VdVFkNzhrYS1rVk1sUURsMXpzY3RzM201bHdmb2s3enBlTC10M0duYWNzTVR4VW1BVlozb3dkZjVlRk9KSHNCYzFZdG1kTU1OMEFZSUdWbl80cXNzYS1ZcFZvZnNIYmNzN0Q5SdIBrAFBVV95cUxPVnNFdlMxM0QycW9HSU1SekthVkFPMTFlRlE5eF9qQkRTb2xlVjVxdzdXak5wWTY1OVJVQmxxbDBKcGJoRGM4ckhXdGM4Nm1tVjhHcUh6UmRPY0tMN1hycnBETG5tSkZ0ZTlVZzdIak54VHJQeXlOSERBUmVOSk1BME9WaUQzUFNXVFJ5N2ZjTXlrMlFiZGJqTW53SGRPWjNXSk44TGFvNFJ1anBw?oc=5",
+      "publisher": "Mathrubhumi English",
+      "published": "Fri, 13 Nov 2026 08:20:53 GMT",
+      "discovered": "2026-11-16",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
