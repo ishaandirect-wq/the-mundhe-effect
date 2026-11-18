@@ -1,12 +1,6 @@
 {
-  "last_checked": "2026-11-17T12:02:09.902438+00:00",
-  "warnings": [
-    {
-      "source": "RSS",
-      "query": "Washim FDA food restaurant licence suspended restored inspection when:7d",
-      "error_type": "HTTPError"
-    }
-  ],
+  "last_checked": "2026-11-18T11:53:51.204653+00:00",
+  "warnings": [],
   "candidates": [
     {
       "id": "006007dd676bb7f8d44b",
@@ -835,6 +829,26 @@
       "publisher": "NDTV Profit",
       "published": "Tue, 17 Nov 2026 04:12:22 GMT",
       "discovered": "2026-11-17",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "fc4b0b01a4d58356cbf5",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb3hzQjNRZWEyRXBLN0pSSnhET3Q1TmxmVjgzWll0VUpubndOc0xEd1J5NEIyUjBMV2VhbXFvbS1LaExwVWV6M1hGUVNUU29vVmpEZFZrM0ZoTDN3OU1VZThVbUpVT240dXVYQjJyTHpHMW5RdDRYNTBHSEdiVGRvdU1vZDZ2MzA1YnpZbzNKdVc3dV9XSGtrMjY5Z1BKREpwQW9MSEk2VUltZDMtY2xiQjZsSVJBdUQtUTFPR2gtS2pQWVZ2Y0VBRVJfYjQ0cjllWHc1NzV1ZHpvUndjMkFqcDEtMTVHaUHSAewBQVVfeXFMT2xfR1NvSjdlR0RET0Z5TU00NVl0WWpjdkRaVUEwa1FmcWd5M0RYOEFSbDhRNGQ1WHpMMlRrNjVLWERYUDBtcGw2SzR5UkRMWjNGQWRFMFg3TXYtdFdBZ0VZUnpoRFE3OW5Mc2QxVHJxSEVqdWVpWnB5eDFDbEJNVG9TMGdjend2bHd0ZV9pX3B3eHBfT1AxalNQam55OG90dWNSOFQxUHRhc3pjZmtiNEl0VUhRUVlIZkI0UVpuR3pVZ0hGRE9kRmpxbGo5RkZqazVzMGhHU2dMMFdyS1VZVW5EdGp0SlVwaU1McUE?oc=5",
+      "publisher": "Hindustan Times",
+      "published": "Sun, 15 Nov 2026 02:08:00 GMT",
+      "discovered": "2026-11-18",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "1521c0a08fed92978620",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVjEtZVA5MHFkQnZQVHRiMWJSenc3RFpPT2s1ZTBsMVNzRFRrdFc3MXNQcjRiTzBocEg1UExZaXNuNVZDTFNjQXRJRy1JTFVMR3JtVGlsTUsxQ1B6Z1M2LVZ5VUpkMVJ1bDA5Rzh3OWExUUhvaG1mNFYtaE1aVlQ1REl2ck5MWjFtS0dpZllKUkNDVTVrekxmUk4td3ZtUGFKVW1mbHQzUVFUNTNabjBGV29yZkFkd9IBvgFBVV95cUxQMmZRanVXUTJwWV9WUWlsZmc2RVU2OGZZd2tDYUxTRDJKMUFWODFnLS1FaXhmdEYzVU9zS3d3b0JiMG1PY0FaRzg3TmUybmktWTZYdlUtSG5mUzlCdFhpemxLRjhPV3VOTHFOSXBwclVGYWF2VkxLTmh5NHhEYlZWLVJVMHROMDVZZ0U1azN3VDZrQnFhT3FfOFRXaHg1S3hWOHEzYmFDUkU2eVAzbDBKcHMyVWl1ZE4yX1YtenhB?oc=5",
+      "publisher": "NDTV Profit",
+      "published": "Tue, 17 Nov 2026 04:12:22 GMT",
+      "discovered": "2026-11-18",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
