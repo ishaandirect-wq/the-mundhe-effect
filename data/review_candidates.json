@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-19T11:50:54.073069+00:00",
+  "last_checked": "2026-11-20T11:52:39.547601+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -909,6 +909,76 @@
       "publisher": "The Daily Jagran",
       "published": "Fri, 13 Nov 2026 12:20:00 GMT",
       "discovered": "2026-11-19",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "79401008063ccdf19bc9",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMzU4eU90cWVsQzdkbld0VU9ycEdfVXNpSDBadjlRYmhJTzcyRFFOOGxfeW03a1JmRUY0V092R3ZrYU1yWlU5bll6SnBySnh2SExvVTREMjM3U20zZmVkakYzZkFpRFJuNjRVOEo1ZnpZWWR6MUVTS0gtZFVtVVpWdk1oVDBQb2Y2czAyeDhmMGFQWnJTNklWb29ZbU5ZM1hmX1JJNHRTRGdnZDVPa09TZXJNS3R5dGpzd2xBVzdZWmxNMVdwSFBWWFAtNXpMSHBSQ1HSAdIBQVVfeXFMTTM1OHlPdHFlbEM3ZG5XdFVPcnBHX1VzaUgwWnY5UWJoSU83MkRRTjhsX3ltN2tSZkVGNFdPdkd2a2FNclpVOW5Zekpwckp4dkhMb1U0RDIzN1NtM2ZlZGpGM2ZBaURSbjY0VThKNWZ6WVlkejFFU0tILWRVbVVaVnZNaFQwUG9mNnMwMng4ZjBhUFpyUzZJVm9vWW1OWTNYZl9SSTR0U0RnZ2Q1T2tPU2VyTUt0eXRqc3dsQVc3WVpsTTFXcEhQVlhQLTV6TEhwUkNR?oc=5",
+      "publisher": "Lokmat Times",
+      "published": "Thu, 19 Nov 2026 17:59:47 GMT",
+      "discovered": "2026-11-20",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "25f4c9973bdbddffa8ad",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlJUS080YnJSUWV3TlJIaU5GUTVqUW5MNnRzTDRHaG11T3Q3alhwaUktY3ZTVjRRS3czS2pqTTlWTDYzU1dqRFZ2Znl5eXZqTURPWXFycnFQVWFfZzhXZXA3dEtsYXIyVDNwRTB0V2tJNF9BQXdPYUFoLWNKaUNyWTNQZExPUXpQeVFSMEVoVmZNWmMtMHlNT0wyXzVoeTFRNnhZdU95N05GTkZQVmZseXNucEJhWmVibHIzbmtYcm5yZm05THJjc2laSVjSAdIBQVVfeXFMTTM1OHlPdHFlbEM3ZG5XdFVPcnBHX1VzaUgwWnY5UWJoSU83MkRRTjhsX3ltN2tSZkVGNFdPdkd2a2FNclpVOW5Zekpwckp4dkhMb1U0RDIzN1NtM2ZlZGpGM2ZBaURSbjY0VThKNWZ6WVlkejFFU0tILWRVbVVaVnZNaFQwUG9mNnMwMng4ZjBhUFpyUzZJVm9vWW1OWTNYZl9SSTR0U0RnZ2Q1T2tPU2VyTUt0eXRqc3dsQVc3WVpsTTFXcEhQVlhQLTV6TEhwUkNR?oc=5",
+      "publisher": "Lokmat Times",
+      "published": "Thu, 19 Nov 2026 17:59:38 GMT",
+      "discovered": "2026-11-20",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "75d87c6fd10faf26fd91",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEFycjBhX0NsVi11NFpoRVZodU9uZHBkTlBkZ185c0ZJTzl4TWpGSmloaTd0SmUzLTEzc2J6WEw1dERQVWlWMUxScWpoYlZ2SFptTDhOWFVyby1DWVlyWlRMWTY5c0JJdENxOHVEY0cwMWZycGxTU3Q1Znh3QmZiOHVTN3Fad3A0R2lTakdjNW1vVGdKOTBpZFNB?oc=5",
+      "publisher": "Newsband",
+      "published": "Fri, 20 Nov 2026 10:14:19 GMT",
+      "discovered": "2026-11-20",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "d56cd28d0e5da9205441",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUUVybTk5ejZ5LXE3U2hBVGx4S2xTWUFDTm1YREp4ZVNUWWh1c0RRVVJMTWZVVGJrVVB4bFhkQjllVDhSV3p1Mk9tbjdQQzg3OFU3aDlldVo4c2hBbktFVDVrdUJ1bW5SZVZLcHBNZ2gwQ19oeWNRRlRzUV9FaUJTTlE3MVhZcnYwMmFUX1NSSmxsSVlGbEpldmRHTDVqU3VEZ193RHF4TnFsUE9rdjJEN2szU2I2clRfclR1Y1BqTzFudXVQY3J3T1NHS1ZxbnhkUjhLbVg3REoyLTItV3fSAeMBQVVfeXFMT0xoZmpwM1dNX3VkdnJ4YnpYR0sxU2R5R3Jkdk1wc1hVMllJZmJfdUxCaGY3UzlHVFNfTmlEUzY4STFvMlBEU0ZOSlBVSkpvc2dqcHJHZFRBMS1md05sWVFGSmNFSXNrRVVHNjJ5M3o3YVVXTnVzcDVMY19GWm0xOENtSEJnNmxzcFpEUDBVcEpyeUYteGFBSDlKRXZaYTNIY1UyVWZscHkwYzBDWWYwY1JwdFRpWENHRVdHdEtuVzJFVGF0aXVBcWNhaWVmQU9oZWE5QUhabDNNVFBENGRRU0ZfUms?oc=5",
+      "publisher": "The Times of India",
+      "published": "Thu, 19 Nov 2026 18:35:00 GMT",
+      "discovered": "2026-11-20",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "0b827cfee0da9c77f133",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWEludFVfV0FBQ0hIazhmUnpOeFpZcm5ySDhjWExiLUQ0eDZXa3VXZlhoYjlKS0kycWtKM2l0MEQ4Q252UjlwcmYzRWdaTHdKT3d0Q1hCVTI2RUJXWXZuQ053ZlRtRjVuRDVmcHNtRTNSNkZ4NUpQd1VEdmZkazJkeDNKNVdVRWNSRzZ3RHRFLWN5TzR5NXEyZmZIQ2Q3c0c0OW1aUFhscmJrWVRzbFhLbkN2TU5ONHBlUkd4czBEMHpoTVYzUURBeFdWdUNQQWlSVHFiSmpjUkRSZVN2ZHZ0bThfTXBvS2tzOTVDUm82c9IB9AFBVV95cUxOcXV1WVkwUEJSQlJNSE5YR2dkeVo1bjZLcUFLbngxRVZTUzdBZGRjY0dfeFlPYW5CVVBLbzBuNWdmTTJTeXBsajJZdmIwcnZRSnAzQXFzWHdSUmFVakRhUTZmV2x5NUpIVU1LaGFzVlI2M3NMSmllME5ZRVJzOVI5VDVHdkYzUVdNUmZOQnV2S2Zpdm9xaWpwM0MwM2g2MkZTU2U2amlPMk9JQXZjQ3hVcWJjTWhQdFNqV2dFOEEwUXQwWDZFRGFNREtmZ0JRM1VOTTBQY0JvRlN2VnNreGg4QmVERE5Tbzc4TGJiYlpZRl9NcGFv?oc=5",
+      "publisher": "Free Press Journal",
+      "published": "Thu, 19 Nov 2026 15:08:52 GMT",
+      "discovered": "2026-11-20",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "3211caf185bbfffdac44",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNaFNfZEhWOU5zbVFyeW9ScVA3MjB2MGZHU21wdmxNMDFaOF8tYU45NU91ZXNwNnVmRGRkWlNoNDFVR21ESm5vUEpMR1NrMVA0YVE2aGVGSGZ0MzNvVW56bTVybjJicTBmbTZ4Sm9LTGowUTdjbXNVTDhFWm01aDBTZ0VBNWMwTHU4akFWYUswVFVZcV9UTkVhZVM1N1dDWEYzQ3BXQkliVjVqR29Qa1BTT3ZEaDRpaHdFdk5nbDZFQW4yQUttM1lFM2pjMzRXWnpOOVdURHJGUVd2SEhmV01CZU1Cb2dzZXNYQ2FCSVlPTks5UVAwZzJWeXEwamlZUzZteEd3dHZQQmdNYkhhSGRCbnFSdTFMMVJpQVJsN2JSb9IBnwJBVV95cUxNaFNfZEhWOU5zbVFyeW9ScVA3MjB2MGZHU21wdmxNMDFaOF8tYU45NU91ZXNwNnVmRGRkWlNoNDFVR21ESm5vUEpMR1NrMVA0YVE2aGVGSGZ0MzNvVW56bTVybjJicTBmbTZ4Sm9LTGowUTdjbXNVTDhFWm01aDBTZ0VBNWMwTHU4akFWYUswVFVZcV9UTkVhZVM1N1dDWEYzQ3BXQkliVjVqR29Qa1BTT3ZEaDRpaHdFdk5nbDZFQW4yQUttM1lFM2pjMzRXWnpOOVdURHJGUVd2SEhmV01CZU1Cb2dzZXNYQ2FCSVlPTks5UVAwZzJWeXEwamlZUzZteEd3dHZQQmdNYkhhSGRCbnFSdTFMMVJpQVJsN2JSbw?oc=5",
+      "publisher": "The Economic Times",
+      "published": "Fri, 20 Nov 2026 06:10:00 GMT",
+      "discovered": "2026-11-20",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "db4d66bb53b638f40852",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU19SLV9FX2dmSExDTlA5OUpzVFJKVnZjLWxrS2NJa0V4SFNBcjhWUzVpbmJ1UGFMUF83WGVGdGJLTU1ocVNlazkyUGsyVTY3Z2lVQ3FsNWVyeXJjNVYya1FxUmhrWUxBTWxQbFlwTTFKd3hWRV9OeGU0aXdQdUM1V1dlQ3NGNWNnWnREM2lGbi1sMUNyVDRITUhkV1BLYWR3bXNmNzBDVzdsclNSb0xMMXlB0gGyAUFVX3lxTFBTX1ItX0VfZ2ZITENOUDk5SnNUUkpWdmMtbGtLY0lrRXhIU0FyOFZTNWluYnVQYUxQXzdYZUZ0YktNTWhxU2VrOTJQazJVNjdnaVVDcWw1ZXJ5cmM1VjJrUXFSaGtZTEFNbFBsWXBNMUp3eFZFX054ZTRpd1B1QzVXV2VDc0Y1Y2dadEQzaUZuLWwxQ3JUNEhNSGRXUEthZHdtc2Y3MENXN2xyU1JvTEwxeUE?oc=5",
+      "publisher": "Scroll.in",
+      "published": "Thu, 19 Nov 2026 14:04:00 GMT",
+      "discovered": "2026-11-20",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
