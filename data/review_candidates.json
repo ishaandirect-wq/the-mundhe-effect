@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-24T13:53:47.915412+00:00",
+  "last_checked": "2026-11-25T13:09:19.025634+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -1149,6 +1149,36 @@
       "publisher": "The Times of India",
       "published": "Fri, 20 Nov 2026 22:16:00 GMT",
       "discovered": "2026-11-24",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "7346eb87584758812c04",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2pacTRUaEJ1bVJ6OFRBcERsT3dVM2R0bXZUMnpMRmU4d0hGN1dwb3hwbk5sREdRRndtT3FTM081OUN4R3lIUmZLLU4xb2g5TEUzcHBNdzgxdnR1OFE5Q3B3WFNEd28yMUpvZDk4cHBZTEhvTEgwbjNLbEpHamNFazVxNElTb2hNM3lxWVJUX1FkY2FIWDZCOUtjMjhSY2h5?oc=5",
+      "publisher": "Kashmir Despatch",
+      "published": "Mon, 23 Nov 2026 16:32:00 GMT",
+      "discovered": "2026-11-25",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "b45b36a3c6cafa99d70d",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWmVwLTBPOVVGS3lCM2phUDdWWFF2RTJ5ZWt4cWR4NDQ4RmM3SW5LRzkxamtlSnk2YU1CRUZXaWtVUDJIR0xPSEh0RjFKWGYzQ21kM2tXcGMxOFBMUnJUNDJhVkJYSUdJdUVvTW5tbkdDVjV4cGdsVmFseTJrOS1VNUtxMGVIY3hFazI3RWpqcmdZX1BBSmVvZnNUbFhTdUhhcEtrT1puUXB3WURIaVBDUDM2MEFfTGQ0SDkyVU1CM3dIQ0I10gHKAUFVX3lxTE51RTJXQmZtQlJiNzZBNXBTSkxfaDlfUldkRlNldjFhR0RiMjRNakc1a0c5Znd5TTBsRm5Pa1BWNkFLVURCYXdGblphSWVNeG8yTWxYMlNtVHVRSFhBV2taZDBUS1FjTzJadjk3VUFPSzkyV3B6Z2V6bENwc3FFOVJUVmk4VU1KN1ZycmJKNHdYamFnQWl0UGtzSUVhM1F3STZiZnBqOWY1T19rblJQRFRRV21PLVU3dGh0akFBS3dtajVYS0tYbTNPN0E?oc=5",
+      "publisher": "Curly Tales",
+      "published": "Tue, 24 Nov 2026 20:05:12 GMT",
+      "discovered": "2026-11-25",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "fed4327254f9ef8b0286",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPXzFFNWdPOEQ5aUhBRG5Vb2c1XzhxT0d5VXA5N2RsaG4wU0xLbG1NR2FObTN5bVhxQVB3VGh1VTYyelJQdEhZclVIVVZkRldiZE1WUXhsWGZmUXoxYWZXS2hTUTRGbE8yajNLZUI5MkxOMnRua1hNMWlELUhrbXdyQ3V1YV9JQmdPUl81Nk1ZRmF1MXM3Q3pkUjMtRkc4TkZwOFJCcnBXVHFGX3RVazhJX0pjTUdrdkZObExGRFRCb0N0U3R4S1gwU0xHaXc1eVNoNExxdnBzVDBMa0c0SVVfVHViNmFIb1NWc1NyTjQteE5pTXY3WldOMmR6RWFVc2NSal80QS1uUFBPTFQzazVsRTVZQ0tKWTFuOTVrbtIBnAJBVV95cUxPXzFFNWdPOEQ5aUhBRG5Vb2c1XzhxT0d5VXA5N2RsaG4wU0xLbG1NR2FObTN5bVhxQVB3VGh1VTYyelJQdEhZclVIVVZkRldiZE1WUXhsWGZmUXoxYWZXS2hTUTRGbE8yajNLZUI5MkxOMnRua1hNMWlELUhrbXdyQ3V1YV9JQmdPUl81Nk1ZRmF1MXM3Q3pkUjMtRkc4TkZwOFJCcnBXVHFGX3RVazhJX0pjTUdrdkZObExGRFRCb0N0U3R4S1gwU0xHaXc1eVNoNExxdnBzVDBMa0c0SVVfVHViNmFIb1NWc1NyTjQteE5pTXY3WldOMmR6RWFVc2NSal80QS1uUFBPTFQzazVsRTVZQ0tKWTFuOTVrbg?oc=5",
+      "publisher": "The Hindu",
+      "published": "Tue, 24 Nov 2026 07:14:47 GMT",
+      "discovered": "2026-11-25",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
