@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-25T13:09:19.025634+00:00",
+  "last_checked": "2026-11-26T12:48:50.234739+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -1179,6 +1179,16 @@
       "publisher": "The Hindu",
       "published": "Tue, 24 Nov 2026 07:14:47 GMT",
       "discovered": "2026-11-25",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "aae4dd702a2785140662",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTWsya2E5TVItVkJBMFhBZENRR005U3llVzV6ell5ckxwWk5URzhaS2xjdlFHTTNtbEJORlFKM01yaG0tR2FVOEQ4ODNqQUpyZUZuLXIxTFN3UXp5LU03TVM5enBqaER5aU5NNmNORTFFaEZyNGhPX2UyalBySTNGc2tSeGNYcUhSX1k4WXBDZjFqS3l4Vk03TVJBQzNkbVFSelZWbEU2bWRhbTRLeGY0bHV6VEowMlhkMHpZeGpkMl9sbnM1blR3bUlsLWNDb0l3eWJFaHppVDlPSGZaZ0hGMFRDdkRZNTdo0gHuAUFVX3lxTE1SbGg2aWk1Z2VBSlc1ZEZ6TWNYVFY1RWJ0aFB1NXhrYUpyN3k2NlhHVXQ3Y2RVd0xzQzdxLVQ3d3IyTHV0WTZVU2llbkNsU1g2YXJXQ3dKbDlReDhqMWlWMFcyUjVQTjRTOGsxejVnZHZBd2V6UnpsbGdEY3B3Zk9vbVc3Ni1HRXhkeV84VFdLcFdjWG9LTnJlUU51eWVDbXF3YTZYdmZneE04U0pia2FNY0Z1VlpCaEJGdER6SjByeVJpVzYxVXpvUFlOa2dIeDBuWmlTM3RyTVNfTHRaQUpHdkVjUS1Eb2VZcVFrUGc?oc=5",
+      "publisher": "News18",
+      "published": "Wed, 25 Nov 2026 15:08:36 GMT",
+      "discovered": "2026-11-26",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
