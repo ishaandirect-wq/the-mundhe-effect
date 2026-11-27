@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-26T12:48:50.234739+00:00",
+  "last_checked": "2026-11-27T12:42:08.572270+00:00",
   "warnings": [],
   "candidates": [
     {
@@ -1189,6 +1189,36 @@
       "publisher": "News18",
       "published": "Wed, 25 Nov 2026 15:08:36 GMT",
       "discovered": "2026-11-26",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "e1460fe873252a315e48",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObGlQTmlHNDFZRnBQUnotR1I0V01XLUZPQ2VPRGJ4MzhDaWphSzdmd2c1SFpOeGh6Z1htS0xMQXY3OTF0STBpZnpGMFRiRDl6WkUyUzJfaDVMZ2hVdExINDN0ajhGaUhUd3hkUHVqMWtQaWJlWWtGMWJiYkptaHBhTDVtZC1hVmg4UmlsbERHUFlLODNQOTZHeFpCcGxfeVZJZGZKTlRCUmtvVV9QNU1wN3J2S2VDOHZMdFUwdzB5ckVfWkRMQ1FrNHBnYzZuUk01a3k2UHg5d0prV0RkWmt0Sk5xNjNZV1BTTEEzS0s4cF96dGRpbERwMTJn0gH_AUFVX3lxTFByZnpaWm56SDBESVRlaW9zOXBOZlpaVEJISTNhLURYOE1IWVd0Y0xpQWZUblJpRVBvVldIOURfdGxOZ25CXzlqUi12T2ZXZlYzMzI1NHdfLTJiNFAwWUdfMHVoWjhaVVc2UlhiRTdySm5QdDUyTFRFRGJzWTgwU3ZyQlJ1dGh1VFFxaXJSbnBJVVJKTUFLek1EdzFxYS13ZmxrZXNKb0kyZjhfc25xYW54SlJNUlplRjZyNk9PaGJaWFZGM3kzdmJDcHFtRGZoWkdmY29DcnJteUxhLUNqN05qdFMxMG5qTDRRQ0JSd09tdWNyWms5X1ctTl9vNkI4Zw?oc=5",
+      "publisher": "India.com",
+      "published": "Fri, 27 Nov 2026 02:49:58 GMT",
+      "discovered": "2026-11-27",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "23834278fc0a3fb59666",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWVpLSGVLZUNheS0yRlY0VWR3QnhaLTY4ckktV3BGdjIydGVDOEZwSFczZ1N6VnQ0bnZVVmtYbHh3blU2SFRTWXdqNnE1M1FVcldHWmUzRGVHWnh1RkhHWjFkX1BmSEtIODVJazYzTTBJeTNobXBZUTRzODNEdmpqSjVaWnFTaEVmM0pkMWtfOWlOT1BSVDJYZkFORlJrZF93dy0xWGgxdw?oc=5",
+      "publisher": "Kashmir News Service",
+      "published": "Mon, 23 Nov 2026 16:09:06 GMT",
+      "discovered": "2026-11-27",
+      "review_status": "pending",
+      "note": "Discovery only; no inspection outcome verified."
+    },
+    {
+      "id": "b0f2ce332fe1d0ff171d",
+      "title": "Unreviewed source link",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT3JaWHN5QUdXVkNlbktTZFRpUWx2YVh0SWl3dzZTQWJvTVV1Z1JBLVhVVXNPa0p1LWRBUUM3WFJZeVp2Rkszbk1XMUQtX25qT1RTVzdDdUhVTk1OendYdHlja0Y3SHJsS25NSGpHSy1oSTFtSnhGS01VMmJvNXVaTHFrT0FCTUh0djNOTVNMZ0oxcTdxTTU0Uk9YRjlwaEwwa0FTRk1ZRUFXUENjRTluWVRNRQ?oc=5",
+      "publisher": "Punekar News",
+      "published": "Mon, 23 Nov 2026 05:20:21 GMT",
+      "discovered": "2026-11-27",
       "review_status": "pending",
       "note": "Discovery only; no inspection outcome verified."
     }
